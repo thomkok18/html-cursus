@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<title>jQuery opdracht3</title>
+</head>
+<h1></h1>
+<body>
+<div id="div1" style="background-color:white; color:white; height:100px; width:100px; ">
+</div>
+<div id="div2" style="background-color:white; color:white; height:100px; width:100px;">
+</div>
+<button id="button">Reset de disco</button>
+<script>
+$( "#div1" ).hover(function() {
+  $( this ).css("background-color", "green");
+},
+function(){
+    $( this ).css("background-color", "blue");
+});
+$( "#div2" ).hover(function() {
+    $( this ).css("background-color", "purple");
+},
+function(){
+    $( this ).css("background-color", "blue");
+}); 
+$("#button").click(function(){
+  $("#div1").css("background-color", "white");
+ $("#div2").css("background-color", "white");
+});
+</script>
+</body>
+</html>
