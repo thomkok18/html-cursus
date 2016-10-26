@@ -23,17 +23,19 @@
 $(document).ready(function(){
  $("#button1").click(function(){
      $("#list1").css("background-color", "red");
+	 $("#list2").css("background-color", "white");
  });
 });
 $(document).ready(function(){
 	 $("#button2").click(function(){
 	     $("#list2").css("background-color", "green");
+		 $("#list1").css("background-color", "white");
 	 });
 	});
 $(document).ready(function(){
 	 $("#button3").click(function(){
-	     $("#voorste1").css("background-color", "blue");
-	     $("#voorste2").css("background-color", "blue");
+	     $("#list1").css("background-color", "blue");
+	     $("#list2").css("background-color", "blue");
 	 });
 	});
 </script>
