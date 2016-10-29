@@ -49,12 +49,14 @@ footer {
     padding:10px;
 }
 footer a {
-    padding:10px;
+    padding:5px;
     color:white;
     font-weight:bold;
     text-decoration:none;
+    font-size:10px;
 }
 p {
     float:right;
     margin:auto;
+    font-size:10px;
 }
