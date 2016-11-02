@@ -1,0 +1,11 @@
+form ul {
+    list-style-type:none;
+    padding:0;
+}
+form ul li {
+    padding:10px
+}
+form ul li input {
+    position:absolute;
+    left:150px;
+}
