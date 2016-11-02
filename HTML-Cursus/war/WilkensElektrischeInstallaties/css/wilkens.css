@@ -1,3 +1,7 @@
+* {
+    box-sizing:border-box;
+}
+
 body {
     font-family:"Arial";
 }
@@ -41,7 +45,7 @@ td.blauw {
 }
 footer {
     font-family:"Arial";
-    width:1233px;
+    width:1253px;
     background-color:grey;
     clear:both;
     margin:auto;
