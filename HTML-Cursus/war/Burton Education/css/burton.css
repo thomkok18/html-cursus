@@ -12,11 +12,18 @@ body {
     line-height:24px;
 }
 nav {
+    background-color:black;
+    padding:5px;
     margin-top:20px;
     margin-bottom:20px;
+    clear:both;
 }
 nav a {
-    margin-right:20px;
+    color:white;
+    font-weight:bold;
+    padding:10px;
+    text-decoration:none;
+    border-right:2px solid white;
 }
 section.appel , section.visual {
     width:50%;
