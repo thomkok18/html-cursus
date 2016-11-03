@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
 }
+div.links {
+    float:left;
+}
 label {
     margin-left:10px;
     margin-right:30px;
@@ -21,7 +24,7 @@ select {
     margin-left:22px;
 }
 #man {
-    margin-left:150px;
+    margin-left:45px;
 }
 #vrouw {
     margin-left:50px;
@@ -29,6 +32,26 @@ select {
 #kleurOgen {
     margin-left:28px;
 }
+label.omschrijving {
+    float:left;
+}
 #omschrijving {
-    margin-left:12px;
+    margin-left:16px;
+}
+#lekkerEten {
+    display: inline;
+}
+input.één {
+    margin-left:24px;
+}
+input.twee, input.drie {
+    margin-left:144px;
+}
+#annuleren {
+    margin-left:145px;
+    margin-right:10px;
+}
+#annuleren, #verzenden {
+    margin-top:210px;
+    width:80px;
 }
