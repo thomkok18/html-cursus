@@ -8,7 +8,7 @@ div#wrapper, footer {
     background-color:rgb(251, 235, 235);
 }
 body {
-    font-family:"Arial", "sans serif";
+    font-family:'Arial','sans-serif';
     line-height:24px;
 }
 nav {

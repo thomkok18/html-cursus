@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family:'Arial','sans-serif';
 }
 div.links {
     float:left;
@@ -15,10 +16,10 @@ select {
     margin-bottom:10px;
 }
 #voornaam {
-    margin-left:35px;
+    margin-left:36px;
 }
 #tussenvoegsel {
-    margin-left:6px;
+    margin-left:2px;
 }
 #achternaam {
     margin-left:22px;
@@ -30,21 +31,24 @@ select {
     margin-left:50px;
 }
 #kleurOgen {
-    margin-left:28px;
+    margin-left:30px;
+}
+#geboortedatum {
+    margin-left:-4px;
 }
 label.omschrijving {
     float:left;
 }
 #omschrijving {
-    margin-left:16px;
+    margin-left:20px;
 }
 #lekkerEten {
     display: inline;
 }
-input.één {
-    margin-left:24px;
+input.sperciebonen {
+    margin-left:15px;
 }
-input.twee, input.drie {
+input.aardappelen, input.hamburger {
     margin-left:144px;
 }
 #annuleren {
