@@ -6,23 +6,39 @@
 <title>Burton Education</title>
 </head>
 <body>
-<form action="http://www.voormbo.nl/courses/html5/formtest.php" method="post">
-    <ul>
-        <li>
-            <h2>Burton Education</h2>
-        </li>
-        <li>
-            <label for="voornaam"> Voornaam: </label>
-            <input type="text" name="voornaam">
-        </li>
-        <li>
-            <label for="achternaam"> Achternaam: </label>
-            <input type="text" name="achternaam">
-        </li>
-        <li>
-            <input type="submit" name="knop">
-        </li>
-    </ul>
+<form class="form-group" action="http://www.voormbo.nl/courses/html5/formtest.php" method="post">
+    <div>
+        <label for="voornaam">Voornaam</label>
+        <input id="voornaam" type="text" name="voornaam">
+    </div>
+    <div>
+        <label for="tussenvoegsel">Tussenvoegsel</label>
+        <input id="tussenvoegsel" type="text" name="tussenvoegsel">
+    </div>
+    <div>
+        <label for="achternaam">Achternaam</label>
+        <input id="achternaam" type="text" name="achternaam">
+    </div>
+    <div>
+        <input id="man" type="radio" name="geslacht" value="man"> Man
+        <input id="vrouw" type="radio" name="geslacht" value="vrouw"> Vrouw
+    </div>
+    <div>
+        <label for="kleurogen">Kleur ogen</label>
+        <select id="kleurOgen" name="kleurOgen">
+            <option value="blauw">Blauw</option>
+            <option value="groen">Groen</option>
+            <option value="bruin">Bruin</option>
+        </select>
+    </div>
+    <div>
+        <label for="geboortedatum">Geboortedatum</label>
+        <input id="geboortedatum" type="date" name="bday">
+    </div>
+    <div>
+        <label for="omschrijving">Omschrijving</label>
+        <textarea id="omschrijving" rows="6" cols="50"></textarea>
+    </div>
 </form>
 </body>
 </html>
