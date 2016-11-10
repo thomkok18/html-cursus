@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baebee0c-49f4-465d-a44d-12633c53ddc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery1/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/JQuery1/Opdracht.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery4/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/JQuery4/Opdracht.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Project/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Project/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Project/style.css" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Project/css/project.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Tabellen/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Tabellen/Opdracht.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Week 1/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Week 1/Opdracht.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Week 2/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Week 2/Opdracht.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Week 3/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Week 3/Opdracht.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/css/wireframe.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html" />
     </list>
     <ignored path="html-cursus.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wireframe.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Wireframe/css/wireframe.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,6 +51,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -79,8 +80,9 @@
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/css/burton_login.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/css/truemusic.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/Opdracht1.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Project/index.html" />
+        <option value="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/css/Wireframe.css" />
+        <option value="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html" />
       </list>
     </option>
   </component>
@@ -195,6 +197,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html-cursus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html-cursus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Cursus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wireframe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -204,6 +232,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -213,11 +242,8 @@
       <recent name="C:\Users\laptop\git\html-cursus\HTML-Cursus\war" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/WilkensElektrischeInstallaties/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="Opdracht1.html (4)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/Burton/Opdracht1.html">
       <method />
     </configuration>
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/Burton Education/index.html">
@@ -227,6 +253,9 @@
       <method />
     </configuration>
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/TrueMusic/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/Wireframe/index.html">
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -649,18 +678,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Opdracht3.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Opdracht1.html (4)" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.login.html" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.login.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
         <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.login.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Opdracht1.html (4)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.login.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -707,7 +736,7 @@
       <workItem from="1478691858799" duration="19000" />
       <workItem from="1478697562475" duration="644000" />
       <workItem from="1478703845608" duration="268000" />
-      <workItem from="1478807364546" duration="834000" />
+      <workItem from="1478807364546" duration="2461000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1477994079575</created>
@@ -828,11 +857,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478697598369</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="update">
+      <created>1478808208441</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1478808208441</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63870000" />
+    <option name="totallyTimeSpent" value="65497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -849,7 +885,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3256785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3256785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -884,13 +920,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Burton Education/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Burton Education/css/burton.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1139,13 +1168,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Burton Education/css/burton.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1208,10 +1230,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Wireframe/css/wireframe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
