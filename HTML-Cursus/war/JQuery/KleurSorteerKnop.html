@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<title>jQuery opdracht2</title>
+</head>
+<h1></h1>
+<body>
+	<ol id="list1">
+		<li id="voorste1">Aap1</li>
+		<li>Aap2</li>
+		<li>Aap3</li>
+	</ol>
+
+	<ol id="list2">
+		<li id="voorste2">Volvo</li>
+		<li>Suzuki</li>
+		<li>Hyundai</li>
+	</ol>
+
+	<script>
+$(document).ready(function(){
+ $("#button1").click(function(){
+     $("#list1").css("background-color", "red");
+	 $("#list2").css("background-color", "white");
+ });
+});
+$(document).ready(function(){
+	 $("#button2").click(function(){
+	     $("#list2").css("background-color", "green");
+		 $("#list1").css("background-color", "white");
+	 });
+	});
+$(document).ready(function(){
+	 $("#button3").click(function(){
+	     $("#list1").css("background-color", "blue");
+	     $("#list2").css("background-color", "blue");
+	 });
+	});
+</script>
+	<button id="button1">Apen</button>
+	<button id="button2">Automerken</button>
+	<button id="button3">Beide</button>
+</body>
+</html>

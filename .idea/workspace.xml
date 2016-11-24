@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baebee0c-49f4-465d-a44d-12633c53ddc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/EersteJavascript.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery1/Opdracht.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/LiDesign.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery2/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/SlideUp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery2/Opdracht2.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/VerwijderKnop.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery2/Opdracht3.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/KleurSorteerKnop.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery3/Opdracht1.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/Disco.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery3/Opdracht2.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/Animate.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery4/Opdracht.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/KloptOfNiet.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/css/wireframe.css" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/css/wireframe.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html" />
     </list>
     <ignored path="html-cursus.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +30,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EersteJavascript.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EersteJavascript.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/EersteJavascript.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KloptOfNiet.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery/KloptOfNiet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -77,6 +91,7 @@
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/css/wireframe.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript1/Opdracht.html" />
+        <option value="$PROJECT_DIR$/HTML-Cursus/war/JQuery4/Opdracht.html" />
       </list>
     </option>
   </component>
@@ -167,28 +182,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html-cursus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html-cursus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML-Cursus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="war" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -207,20 +200,24 @@
       <recent name="C:\Users\laptop\git\html-cursus\HTML-Cursus\war" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laptop\git\html-cursus\HTML-Cursus\war\JQuery" />
       <recent name="C:\Users\laptop\git\html-cursus\HTML-Cursus\war\Project\css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Opdracht.html">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/TrueMusic/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="login.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/Burton Education/login.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.KloptOfNiet.html">
     <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/Wireframe/index.html">
       <method />
     </configuration>
     <configuration default="false" name="Opdracht.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/Javascript1/Opdracht.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="KloptOfNiet.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/JQuery/KloptOfNiet.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Disco.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/JQuery/Disco.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Animate.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/JQuery/Animate.html">
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -637,23 +634,22 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration default="false" name="Opdracht3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/JQuery2/Opdracht3.html">
+    <configuration default="false" name="KleurSorteerKnop.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/JQuery/KleurSorteerKnop.html">
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Opdracht3.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.login.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Opdracht.html" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.KleurSorteerKnop.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Opdracht.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.KloptOfNiet.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Disco.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.Animate.html" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Opdracht.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.login.html" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.KloptOfNiet.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Animate.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Disco.html" />
       </list>
     </recent_temporary>
   </component>
@@ -705,7 +701,7 @@
       <workItem from="1479368449326" duration="42000" />
       <workItem from="1479460336977" duration="5970000" />
       <workItem from="1479469502843" duration="8000" />
-      <workItem from="1479975665036" duration="1014000" />
+      <workItem from="1479975665036" duration="2064000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1477994079575</created>
@@ -840,11 +836,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478811343395</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update">
+      <created>1479982975202</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1479982975202</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74993000" />
+    <option name="totallyTimeSpent" value="76043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="928" y="0" width="999" height="1047" extended-state="0" />
@@ -896,27 +899,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/css/wilkens.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/css/wilkens.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1073,17 +1055,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery2/Opdracht3.html">
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery/KleurSorteerKnop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery2/Opdracht3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1199,34 +1174,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery1/Opdracht.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery2/Opdracht2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery2/Opdracht1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/EersteJavascript.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery/LiDesign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery/SlideUp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery/VerwijderKnop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery/KleurSorteerKnop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery/Disco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery/Animate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery/KloptOfNiet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding />
         </state>
       </provider>
