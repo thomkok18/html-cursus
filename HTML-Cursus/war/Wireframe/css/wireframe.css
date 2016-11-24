@@ -1,0 +1,59 @@
+* {
+    box-sizing:border-box;
+}
+header p {
+    color:lightgray;
+    text-align:center;
+    padding:50px;
+}
+header {
+    background-color:rgb(80,80,81);
+    height:20%;
+    clear:both;
+    width:100%;
+    padding:0px;
+    margin:0px;
+}
+body {
+    background-color:white;
+    height:40%;
+}
+nav {
+    background-color:rgb(226, 226, 226);
+    height:20%;
+    margin-top:5%;
+    margin-left:40px;
+    margin-right:40px;
+    padding-bottom:0px;
+    clear:both;
+}
+nav h1 {
+    text-align:center;
+    margin-bottom:0px;
+    margin-top:0px;
+    padding:60px;
+    padding-bottom:0px;
+}
+nav p {
+    color:rgb(130, 130, 130);
+    text-align:center;
+    padding:50px;
+    padding-top:0px;
+    padding-bottom:10px;
+    font-family: 'Arimo', sans-serif;
+    font-size: 80px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+nav a {
+    text-align:center;
+    color:white;
+    background-color:rgb(158, 180, 69);
+}
+#betalen article {
+    height:50%;
+    background-color:rgb(244, 244, 244);
+}
+footer div{
+    height:20%;
+}
