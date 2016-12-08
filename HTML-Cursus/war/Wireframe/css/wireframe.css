@@ -1,31 +1,31 @@
 * {
     box-sizing:border-box;
 }
-header p {
-    color:lightgray;
-    text-align:center;
-    padding:50px;
-}
-header {
+.jumbotron {
     background-color:rgb(80,80,81);
-    height:20%;
-    clear:both;
-    width:100%;
-    padding:0px;
-    margin:0px;
+    color:white;
+}
+.btn {
+    background-color:rgb(158,180,69);
+    margin-bottom:50px;
 }
 body {
     background-color:white;
-    height:40%;
+    height:50%;
+}
+.wrapper {
+    text-align:center;
 }
 nav {
     background-color:rgb(226, 226, 226);
     height:20%;
     margin-top:5%;
+    margin-bottom:5%;
     margin-left:40px;
     margin-right:40px;
     padding-bottom:0px;
     clear:both;
+    text-align:center;
 }
 nav h1 {
     text-align:center;
@@ -45,15 +45,140 @@ nav p {
     margin-top:0px;
     margin-bottom:0px;
 }
-nav a {
+div.article {
+    background-color:rgb(244, 244, 244);
+    margin-left:40px;
+    margin-right:40px;
+    padding:25px;
+    margin-bottom:10px;
+    clear:both;
     text-align:center;
-    color:white;
-    background-color:rgb(158, 180, 69);
 }
+
 #betalen article {
     height:50%;
+    background-color:rgb(229, 228, 233);
+    margin-left:10px;
+    margin-right:10px;
+    padding-bottom:0px;
+    clear:both;
+    text-align:center;
+}
+#informatie article {
+    margin-left:30px;
+    margin-right:30px;
+    padding-bottom:0px;
+    clear:both;
+    text-align:center;
+}
+.h3 {
+    background-color:rgb(229, 228, 233);
+    clear:both;
+    text-align:center;
+}
+.p {
     background-color:rgb(244, 244, 244);
+    margin-left:40px;
+    margin-right:40px;
+    margin-top:20px;
+    margin-bottom:20px;
+    clear:both;
+    text-align:center;
+}
+#boven {
+    background-color:rgb(90, 90, 91);
+    height:20%;
+}
+#onder {
+    background-color:rgb(61, 61, 61);
+    height:50%;
+}
+footer {
+    clear:both;
+    text-align:center;
 }
 footer div{
-    height:20%;
+    text-align:center;
+}
+footer h1 {
+    padding-top:40px;
+    color:white;
+}
+footer .btn {
+    margin-top:40px;
+    padding-left:30px;
+    padding-right:30px;
+}
+#links, #rechts {
+    background-color:white;
+    text-align:center;
+}
+#links {
+    text-align:center;
+    margin-left:120px;
+    margin-right:120px;
+}
+#rechts {
+    text-align:center;
+    margin-left:120px;
+    margin-right:120px;
+}
+#linkjes {
+    text-align:center;
+    padding-top:50px;
+}
+.linkje {
+    background-color:rgb(90, 90, 91);
+    display:block;
+    margin-bottom:20px;
+    text-decoration:none;
+    color:white;
+}
+.soort {
+    background-color:white;
+    text-decoration:none;
+    color:black;
+}
+#linkTabel {
+    text-align:center;
+    padding-top:20px;
+}
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    border-radius: 100%;
+    background-color:rgb(97, 97, 98);
+}
+#custom-search-input{
+    padding: 3px;
+    border: solid 1px #E4E4E4;
+    border-radius: 6px;
+    background-color: #fff;
+}
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+}
+#custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 8px 0 10px;
+    border-left: solid 1px #ccc;
+}
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+#custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
+.grey {
+    background-color:rgb(61, 61, 61);
 }

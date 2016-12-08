@@ -1,44 +1,125 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="css/wireframe.css">
     <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/wireframe.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <title>Wireframe</title>
 </head>
-<div class="wrapper">
-    <header>
-        <p>Rapid Wireframing for<br> Responsive Websites</p>
-    </header>
 <body>
+<div class="wrapper">
+    <div class="jumbotron text-center">
+        <h1>My First Bootstrap Page</h1>
+        <p>Resize this responsive page to see the effect!</p>
+    </div>
 <section id="betalen">
     <nav>
         <h1>Basic</h1><br>
         <p>$25</p>
-        <a>Buy now</a>
+        <button type="button" class="btn btn-success">Buy Now!</button>
     </nav>
-    <article></article>
-    <nav>
+    <div class="article">
+        <article>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor pharetra diam facilisis dapibus. Donec ultricies sapien et erat maximus viverra.</article>
+    </div>
+    <div class="article">
+        <article>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor pharetra diam facilisis dapibus. Donec ultricies sapien et erat maximus viverra.</article>
+    </div>
+        <nav>
         <h1>Standard</h1><br>
         <p>$50</p>
-        <a>Buy now</a>
+        <button type="button" class="btn btn-success">Buy Now!</button>
     </nav>
-    <article></article>
-    <nav>
+    <div class="article">
+    <article>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor pharetra diam facilisis dapibus. Donec ultricies sapien et erat maximus viverra.</article>
+    </div>
+    <div class="article">
+    <article>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor pharetra diam facilisis dapibus. Donec ultricies sapien et erat maximus viverra.</article>
+    </div>
+        <nav>
         <h1>Pro</h1><br>
         <p>$75</p>
-        <a>Buy now</a>
+        <button type="button" class="btn btn-success">Buy Now!</button>
     </nav>
-    <article></article>
+    <div class="article">
+        <article>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor pharetra diam facilisis dapibus. Donec ultricies sapien et erat maximus viverra.</article>
+    </div>
+    <div class="article">
+    <article>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor pharetra diam facilisis dapibus. Donec ultricies sapien et erat maximus viverra.</article>
+    </div>
 </section>
-<section>
-    <article></article>
-    <article></article>
-    <article></article>
+<section id="informatie">
+    <article>
+        <h3 class="h3">Lorem Ipsum</h3>
+        <p class="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p class="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p class="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </article>
+    <article>
+        <h3 class="h3">Lorem Ipsum</h3>
+        <p class="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p class="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p class="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </article>
+    <article>
+        <h3 class="h3">Lorem Ipsum</h3>
+        <p class="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p class="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p class="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </article>
 </section>
-</body>
-</div>
 <footer>
-    <div></div>
-    <div></div>
+    <div class="row">
+        <div class ="col-md-12" id="boven">
+            <h1>We'd Love to Hear from You</h1>
+            <button type="button" class="btn btn-success">Success</button>
+        </div>
+    </div>
+    <div class="row grey">
+    <div id="onder">
+        <div id="linkTabel">
+            <div class="col-md-3 col-sm-6">
+               <p class ="soort" class="linkje">Lorem Ipsum</p>
+               <a class="linkje" href="url">link text</a>
+               <a class="linkje" href="url">link text</a>
+               <a class="linkje" href="url">link text</a>
+               <a class="linkje" href="url">link text</a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+               <p class ="soort" class="linkje">Lorem Ipsum</p>
+               <a class="linkje" href="url">link text</a>
+               <a class="linkje" href="url">link text</a>
+               <a class="linkje" href="url">link text</a>
+               <a class="linkje" href="url">link text</a>
+          </div>
+        </div>
+            <div class="col-md-3">
+                <button type="button" class="btn btn-default btn-circle"></button>
+                <button type="button" class="btn btn-default btn-circle"></button>
+                <button type="button" class="btn btn-default btn-circle"></button>
+                <button type="button" class="btn btn-default btn-circle"></button>
+                <button type="button" class="btn btn-default btn-circle"></button>
+                <button type="button" class="btn btn-default btn-circle"></button>
+            </div>
+        </div>
+        <div class="col-md-3">
+                    <h2>Custom search field</h2>
+                    <div id="custom-search-input">
+                        <div class="input-group col-md-12">
+                            <input type="text" class="form-control input-lg" placeholder="Search" />
+                            <span class="input-group-btn">
+                        <button class="btn btn-info btn-lg" type="button">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </span>
+                        </div>
+                    </div>
+        <button type="button" class="btn btn-success">Up</button>
+        </div>
+        </div>
 </footer>
+</div>
+</body>
 </html>
