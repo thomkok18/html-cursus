@@ -1,13 +1,14 @@
-function myFunction() {
-    var dag = new Date();
+function knop() {
+    var datum = new Date();
     var weekday = new Array(7);
     weekday = ["zondag", "maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag"];
 if (weekday != 0 || weekday != 6) {
-    var vandaag = weekday[dag.getDay()];
+    var vandaag = weekday[datum.getDay()];
 } else {
     var vandaag = "Het is weekend!";
 }
     document.getElementById("vandaag").innerHTML = vandaag;
+
     var dagnummer, huur;
     if (weekday[0] || weekday[6]) {
         dagnummer = 0 + " dagen";
@@ -51,5 +52,86 @@ if (weekday != 0 || weekday != 6) {
         maaltijd = "Heb je al avondgegeten?";
     }
     document.getElementById("maaltijd").innerHTML = maaltijd;
-    document.getElementById("huurBetalen").innerHTML = huur;
+    var dag = datum.getDate(), huur, maand = datum.getMonth(), jaar = datum.getFullYear(), betalen, wanneerBetalen;
+
+    if (maand == 1 && jaar %4 == 0) {
+        huur = 29;
+        betalen = huur - dag;
+    } else {
+        huur = 28;
+        betalen = huur - dag;
+    }
+    if (maand == 0 || maand == 2 || maand == 4 || maand == 6 || maand == 7 || maand == 9 || maand == 11) {
+        huur = 31;
+        betalen = huur - dag;
+    }
+    if (maand == 3 || maand == 5 || maand == 8 || maand == 10) {
+        huur = 30;
+        betalen = huur - dag;
+    }
+    if (betalen == 0) {
+        wanneerBetalen = "Je moet vandaag je huur betalen!";
+    }
+    if (betalen == 1) {
+        wanneerBetalen = "Over " + betalen + " dag moet je de huur betalen.";
+    }
+    if (betalen > 1) {
+        wanneerBetalen = "Over " + betalen + " dagen moet je de huur betalen.";
+    }
+    document.getElementById("huurBetalen").innerHTML = wanneerBetalen;
+
+    var sparen;
+
+    sparen = 1248 / 12;
+
+    document.getElementById("sparen").innerHTML = "Je moet  \u20AC" + sparen + " sparen per maand.";
+
+    if (maand == 0) {
+        maand = "januari";
+    }
+    if (maand == 1) {
+        maand = "februari";
+    }
+    if (maand == 2) {
+        maand = "maart";
+    }
+    if (maand == 3) {
+        maand = "april";
+    }
+    if (maand == 4) {
+        maand = "mei";
+    }
+    if (maand == 5) {
+        maand = "juni";
+    }
+    if (maand == 6) {
+        maand = "juli";
+    }
+    if (maand == 7) {
+        maand = "augustus";
+    }
+    if (maand == 8) {
+        maand = "september";
+    }
+    if (maand == 9) {
+        maand = "oktober";
+    }
+    if (maand == 10) {
+        maand = "november";
+    }
+    if (maand == 11) {
+        maand = "december";
+    }
+
+    document.getElementById("datum").innerHTML = "Vandaag is het: " + dag + " " + maand + " " + jaar;
+
+    var huiswerk = Math.random() * 2, afgerond;
+
+    if (huiswerk >= 1) {
+        afgerond = "Ik heb mijn huiswerk optijd ingeleverd.";
+    } else {
+        afgerond = "Ik heb mijn huiswerk telaat ingeleverd.";
+    }
+
+    document.getElementById("huiswerk").innerHTML = afgerond;
 }
