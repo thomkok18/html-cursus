@@ -2,41 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baebee0c-49f4-465d-a44d-12633c53ddc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/BoterKaasEieren.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/css/BoterKaasEieren.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/BoterKaasEieren.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Project/Images/Ooienvaar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Project/css/project.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Project/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/css/burton.css" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/css/burton.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/css/burton_login.css" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/css/burton_login.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/img/appel.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/appel.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/img/book.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/book.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/img/burton_logo.png" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/burton_logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/img/bus.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/bus.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/img/desk.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/desk.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/img/football.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/football.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/img/pythagoras.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/pythagoras.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/index.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Burton Education/login.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/css/truemusic.css" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/css/truemusic.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/img/drums.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/img/drums.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/img/gitaar.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/img/gitaar.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/img/saxofoon.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/img/saxofoon.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/img/trompet.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/img/trompet.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/img/truemusic-logo.svg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/img/truemusic-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/TrueMusic/index.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/css/wilkens.css" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/css/wilkens.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/img/elektriciteit.png" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/img/elektriciteit.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/img/wilkens_logo.png" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/img/wilkens_logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/WilkensElektrischeInstallaties/index.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/css/wireframe.css" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/css/wireframe.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/img/Chat.png" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/img/Chat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/img/Global.png" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/img/Global.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/img/Group.png" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/img/Group.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/background-playfield.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/circle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/cross.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/empty.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/BoterKaasEieren.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html" />
     </list>
     <ignored path="html-cursus.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -133,8 +105,8 @@
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/css/wireframe.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Wireframe/index.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/BoterKaasEieren.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/css/BoterKaasEieren.css" />
+        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html" />
       </list>
     </option>
   </component>
@@ -828,7 +800,7 @@
       <workItem from="1482150441700" duration="318000" />
       <workItem from="1482244891226" duration="45000" />
       <workItem from="1482245045623" duration="5000" />
-      <workItem from="1482320181293" duration="1561000" />
+      <workItem from="1482320181293" duration="2500000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1477994079575</created>
@@ -1061,11 +1033,18 @@
       <option name="project" value="LOCAL" />
       <updated>1481793197240</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="update">
+      <created>1482321801162</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1482321801162</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189258000" />
+    <option name="totallyTimeSpent" value="190197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1087,7 +1066,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1282,13 +1261,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/css/truemusic.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -1390,6 +1362,14 @@
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/BoterKaasEieren.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/css/BoterKaasEieren.css">
