@@ -1,0 +1,25 @@
+* {
+    box-sizing:border-box;
+}
+.logo {
+    width: 150px;
+    height: 130px;
+    float:left;
+}
+.roze {
+    background-color:rgb(194, 123, 160);
+}
+nav a {
+    color:black;
+    font-weight:bold;
+    padding:10px;
+    text-decoration:none;
+}
+.navTop {
+    margin-top:40px;
+    margin-bottom:50px;
+    float:right;
+}
+.floatLeft {
+    float:left;
+}
