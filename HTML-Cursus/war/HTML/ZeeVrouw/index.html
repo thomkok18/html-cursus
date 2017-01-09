@@ -7,6 +7,12 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/ZeeVrouw.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <style>
+        .mySlides {display:none}
+        .w3-left, .w3-right, .w3-badge {cursor:pointer}
+        .w3-badge {height:13px;width:13px;padding:0}
+    </style>
     <title>Wireframe</title>
 </head>
 <body>
@@ -14,7 +20,8 @@
         <div class="col-xs-12">
             <img class="logo" src="img/ZeeVrouwLogo.png" alt="Logo">
             <nav class="navTop text-center">
-                <a href="">Winkelwagen</a><img class="winkelwagen" src="img/Winkelwagen.png" alt="Logo">
+                <a href="">Winkelwagen</a>
+                <a href=""><img class="winkelwagen" src="img/Winkelwagen.png" alt="Logo"></a>
                 <a href="">Login</a>
             </nav>
         </div>
@@ -27,24 +34,47 @@
             <a href="">Herenschoenen</a>
         </nav>
     </header>
+    <section>
+        <div class="paddingBO20">
+            <div class="w3-content w3-display-container" style="height:150px; max-width:80%">
+                <a href=""><img class="mySlides" src="img/Blauw.png" alt="Plaatje" style="height:150px; width:100%"></a>
+                <a href=""><img class="mySlides" src="img/Rood.png" alt="Plaatje" style="height:150px; width:100%"></a>
+                <a href=""><img class="mySlides" src="img/Zwart.png" alt="Plaatje" style="height:150px; width:100%"></a>
+                <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+                    <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
+                    <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
+                    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+                    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+                    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 text-center">
+            <a class="" href=""><img class="korting" src="img/ZeeVrouwLogo.png" alt="Korting"></a>
+            <a class="" href=""><img class="korting" src="img/ZeeVrouwLogo.png" alt="Korting"></a>
+            <a class="" href=""><img class="korting" src="img/ZeeVrouwLogo.png" alt="Korting"></a>
+            <a class="" href=""><img class="korting" src="img/ZeeVrouwLogo.png" alt="Korting"></a>
+        </div>
+    </section>
     <footer class="col-xs-12 text-center grijs">
-        <div class="col-xs-4 col-sm-3 col-md-2 col-lg-1">
+        <div class="floatLeft">
             <h4>Contact</h4>
             <a class="col-xs-12 paddingLR0" href="">Contacten</a>
             <a class="col-xs-12 paddingLR0" href="">Over ons</a>
         </div>
-        <div class="col-xs-4 col-sm-3 col-md-2 col-lg-1">
+        <div class="floatLeft">
             <h4>Dames</h4>
             <a class="col-xs-12 paddingLR0" href="">Sale</a>
             <a class="col-xs-12 paddingLR0" href="">Kleding</a>
             <a class="col-xs-12 paddingLR0" href="">Schoenen</a>
         </div>
-        <div class="col-xs-4 col-sm-3 col-md-2 col-lg-1">
+        <div class="floatLeft">
             <h4>Heren</h4>
             <a class="col-xs-12 paddingLR0" href="">Sale</a>
             <a class="col-xs-12 paddingLR0" href="">Kleding</a>
             <a class="col-xs-12 paddingLR0" href="">Schoenen</a>
         </div>
     </footer>
+    <script src="js/javascript.js"></script>
 </body>
 </html>
