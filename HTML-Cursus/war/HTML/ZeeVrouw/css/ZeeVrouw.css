@@ -42,10 +42,15 @@ footer h4 {
     color:black;
 }
 
+aside {
+    border-right:2px solid black;
+}
+
 /* Float */
 .floatLeft {
     float:left;
 }
+
 /* Padding */
 .paddingLR0 {
     padding:0px;
@@ -54,9 +59,15 @@ footer h4 {
     padding-top:20px;
     padding-bottom:20px;
 }
+
 /* Margin */
 .margin10 {
     margin:10px;
+}
+
+/* Bold */
+.bold {
+    font-weight:bold;
 }
 
 /* Afbeeldingen */
