@@ -57,23 +57,3 @@ footer h4 {
     background-color:rgb(102, 102, 102);
 }
 /* Eind Header en Footer */
-
-
-/* Afbeeldingen */
-.plaatje {
-    width:150px;
-    height:200px;
-	margin-top:20px;
-}
-
-/* 
-Aside
-.lijntje {
-	border-left:1px solid black;
-} 
-*/
-
-/* Margin */
-.margin10 {
-    margin:10px;
-}
