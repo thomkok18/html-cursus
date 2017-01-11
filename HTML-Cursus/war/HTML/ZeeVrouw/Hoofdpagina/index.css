@@ -3,18 +3,16 @@
     box-sizing:border-box;
 }
 
-/* Achtergrond kleuren */
-.roze {
-    background-color:rgb(194, 123, 160);
-}
-.grijs {
-    background-color:rgb(102, 102, 102);
-}
 
-/* Logo */
+/* Header en Footer */
+/* Logo en Winkelwagen */
 .logo {
     width: 150px;
     height: 130px;
+}
+.winkelwagen {
+    width:50px;
+    height:50px;
 }
 
 /* Nav */
@@ -30,6 +28,11 @@ nav a {
     float:right;
 }
 
+/* Float */
+.floatLeft {
+    float:left;
+}
+
 /* Footer */
 footer a {
     color:black;
@@ -42,31 +45,28 @@ footer h4 {
     color:black;
 }
 
-/* Float */
-.floatLeft {
-    float:left;
-}
-
 /* Padding */
 .paddingLR0 {
     padding:0px;
 }
-.paddingBO20 {
-    padding-top:20px;
-    padding-bottom:20px;
+
+/* Achtergrond kleuren */
+.roze {
+    background-color:rgb(194, 123, 160);
+}
+.grijs {
+    background-color:rgb(102, 102, 102);
+}
+/* Eind Header en Footer */
+
+
+/* Afbeeldingen */
+.korting {
+    width:150px;
+    height:200px;
 }
 
 /* Margin */
 .margin10 {
     margin:10px;
-}
-
-/* Afbeeldingen */
-.winkelwagen {
-    width:50px;
-    height:50px;
-}
-.korting {
-    width:150px;
-    height:150px;
 }
