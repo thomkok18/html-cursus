@@ -8,86 +8,77 @@
     <link rel="stylesheet" type="text/css" href="../../kledingstukken.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-    <title>Wireframe</title>
+	
+	<script src="http://www.w3schools.com/lib/w3data.js"></script>
+
+    <title>Kledingstuk</title>
 </head>
 <body>
-<header class="roze">
-    <div class="col-xs-12">
-        <a href="../../../Hoofdpagina/index.html"><img class="logo" src="../../../img/ZeeVrouwLogo.png" alt="Logo"></a>
-        <nav class="navTop text-center">
-            <a href="">Winkelwagen</a>
-            <a href=""><img class="winkelwagen" src="../../../img/Winkelwagen.png" alt="Logo"></a>
-            <a href="">Login</a>
-        </nav>
-    </div>
-    <nav class="text-center floatleft">
-        <a href="">Sale Dames</a>
-        <a href="">Sale Heren</a>
-        <a href="../../../Kleding/DamesKleding/DamesKleding.html">Dameskleding</a>
-        <a href="">Damesschoenen</a>
-        <a href="">Herenkleding</a>
-        <a href="">Herenschoenen</a>
-    </nav>
-</header>
-<section class="marginBO10">
-    <aside class="col-xs-2 text-center">
-        <img class="overzicht margin10" src="../../../img/Sale%20Dames/dames1.png" alt="Korting">
-        <img class="overzicht margin10" src="../../../img/Sale%20Dames/dames1-1.png" alt="Korting">
-    </aside>
-    <div class="col-xs-4">
-        <img class="show" src="../../../img/Sale%20Dames/dames1.png" alt="Korting">
-    </div>
-    <div class="col-xs-6">
-        <h3>Naam Kledingstuk</h3>
-        <p>&euro; 249,99</p>
-        <h4>&euro; 149,99</h4>
-        <form action="action_page.php">
-            <select name="Maat">
-                <option value="null" selected>Maat</option>
-                <option value="XS">XS</option>
-                <option value="S">S</option>
-                <option value="M">M</option>
-                <option value="L">L</option>
-                <option value="XL">XL</option>
-                <option value="XXL">XXL</option>
-            </select>
-            <br><br>
-            <select name="Aantal">
-                <option value="null" selected>Aantal</option>
-                <option value="1">1</option>
-                <option value="2">2</option>
-                <option value="3">3</option>
-                <option value="4">4</option>
-                <option value="5">5</option>
-                <option value="6">6</option>
-                <option value="7">7</option>
-                <option value="8">8</option>
-                <option value="9">9</option>
-                <option value="10">10</option>
-            </select>
-            <br><br>
-            <input type="submit" value="In Winkelwagentje">
-        </form>
-    </div>
-</section>
-<footer class="col-xs-12 text-center footer grijs">
-    <div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
-        <h4>Contact</h4>
-        <a class="col-xs-12paddingLR0" href="">Contacten</a>
-        <a class="col-xs-12 paddingLR0" href="">Over ons</a>
-    </div>
-    <div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
-        <h4>Dames</h4>
-        <a class="col-xs-12 paddingLR0" href="">Sale</a>
-        <a class="col-xs-12 paddingLR0" href="">Kleding</a>
-        <a class="col-xs-12 paddingLR0" href="">Schoenen</a>
-    </div>
-    <div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
-        <h4>Heren</h4>
-        <a class="col-xs-12 paddingLR0" href="">Sale</a>
-        <a class="col-xs-12 paddingLR0" href="">Kleding</a>
-        <a class="col-xs-12 paddingLR0" href="">Schoenen</a>
-    </div>
-</footer>
+    
+	<header class="roze">
+		<div class="col-xs-12">
+            <a href="http://mijntweedewebsite-143419.appspot.com/"><img class="logo" src="../../../img/ZeeVrouwLogo.png" alt="Logo"></a>
+            <nav class="navTop text-center">
+                <a href="http://mijntweedewebsite-143419.appspot.com/lwc/wagen.html">Winkelwagen</a>
+                <a href="http://mijntweedewebsite-143419.appspot.com/lwc/wagen.html"><img class="winkelwagen" src="../../../img/Winkelwagen.png" alt="Logo"></a>
+                <a href="http://mijntweedewebsite-143419.appspot.com/lwc/login.html">Login</a>
+            </nav>
+        </div>
+		
+        <div w3-include-html="../../../header.html"></div>
+		<script>
+			w3IncludeHTML();
+		</script>
+    </header>
+	
+	<section class="marginBO10">
+		<aside class="col-xs-2 text-center">
+			<img class="overzicht margin10" src="../../../img/Sale%20Dames/dames1.png" alt="Korting">
+			<img class="overzicht margin10" src="../../../img/Sale%20Dames/dames1-1.png" alt="Korting">
+		</aside>
+		<div class="col-xs-4">
+			<img class="show" src="../../../img/Sale%20Dames/dames1.png" alt="Korting">
+		</div>
+		<div class="col-xs-6">
+			<h3>Naam Kledingstuk</h3>
+			<p>&euro; 249,99</p>
+			<h4>&euro; 149,99</h4>
+			<form action="action_page.php">
+				<select name="Maat">
+					<option value="null" selected>Maat</option>
+					<option value="XS">XS</option>
+					<option value="S">S</option>
+					<option value="M">M</option>
+					<option value="L">L</option>
+					<option value="XL">XL</option>
+					<option value="XXL">XXL</option>
+				</select>
+				<br><br>
+				<select name="Aantal">
+					<option value="null" selected>Aantal</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
+				<br><br>
+				<input type="submit" value="In Winkelwagentje">
+			</form>
+		</div>
+	</section>
+
+	<div w3-include-html="../../../footer.html"></div>
+	<script>
+		w3IncludeHTML();
+	</script>
+	
+	<script src="../kledingstukken.js"></script>
+	
 </body>
 </html>

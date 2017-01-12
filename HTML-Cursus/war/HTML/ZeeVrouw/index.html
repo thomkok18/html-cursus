@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+	
+	<script src="http://www.w3schools.com/lib/w3data.js"></script>
+   
+    <style>
+        .mySlides {display:none}
+        .w3-left, .w3-right, .w3-badge {cursor:pointer}
+        .w3-badge {height:13px;width:13px;padding:0}
+    </style>
+	
+    <title>Home</title>
+</head>
+
+<body>
+    
+	<header class="roze">
+		<div class="col-xs-12">
+            <a href="http://mijntweedewebsite-143419.appspot.com/"><img class="logo" src="img/ZeeVrouwLogo.png" alt="Logo"></a>
+            <nav class="navTop text-center">
+                <a href="http://mijntweedewebsite-143419.appspot.com/lwc/wagen.html">Winkelwagen</a>
+                <a href="http://mijntweedewebsite-143419.appspot.com/lwc/wagen.html"><img class="winkelwagen" src="img/Winkelwagen.png" alt="Logo"></a>
+                <a href="http://mijntweedewebsite-143419.appspot.com/lwc/login.html">Login</a>
+            </nav>
+        </div>
+		
+        <div w3-include-html="header.html"></div>
+		<script>
+			w3IncludeHTML();
+		</script>
+    </header>
+	
+    <section>
+        <div class="margin10">
+            <div class="w3-content w3-display-container" style="max-width:90%">
+                <a href=""><img class="mySlides" src="img/headerfoto1.jpg" alt="Plaatje" style="height:200px; width:100%"></a>
+                <a href=""><img class="mySlides" src="img/headerfoto2.jpg" alt="Plaatje" style="height:200px; width:100%"></a>
+                <a href=""><img class="mySlides" src="img/headerfoto3.jpg" alt="Plaatje" style="height:200px; width:100%"></a>
+                <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+                    <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
+                    <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
+                    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+                    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+                    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 text-center">
+            <a href="http://mijntweedewebsite-143419.appspot.com/kleding/korting/dames/kortingD2.html"><img class="korting margin10" src="img/Sale Dames/dames2.jpg" alt="Korting"></a>
+            <a href="http://mijntweedewebsite-143419.appspot.com/kleding/korting/dames/kortingD1.html"><img class="korting margin10" src="img/Sale Dames/dames1.png" alt="Korting"></a>
+            <a href=""><img class="korting margin10" src="img/Sale Heren/heren5.jpg" alt="Korting"></a>
+            <a href=""><img class="korting margin10" src="img/Sale Heren/heren2.jpg" alt="Korting"></a>
+            <a href="http://mijntweedewebsite-143419.appspot.com/kleding/korting/dames/kortingD7.html"><img class="korting margin10" src="img/Sale Dames/dames7.jpg" alt="Korting"></a>
+            <a href="http://mijntweedewebsite-143419.appspot.com/kleding/korting/dames/kortingD8.html"><img class="korting margin10" src="img/Sale Dames/dames8.jpg" alt="Korting"></a>
+            <a href=""><img class="korting margin10" src="img/Sale Heren/heren9.png" alt="Korting"></a>
+            <a href=""><img class="korting margin10" src="img/Sale Heren/heren4.jpg" alt="Korting"></a>
+            <a href="http://mijntweedewebsite-143419.appspot.com/kleding/korting/dames/kortingD10.html"><img class="korting margin10" src="img/Sale Dames/dames10.jpg" alt="Korting"></a>
+            <a href="http://mijntweedewebsite-143419.appspot.com/kleding/korting/dames/kortingD9.html"><img class="korting margin10" src="img/Sale Dames/dames9.jpg" alt="Korting"></a>
+            <a href=""><img class="korting margin10" src="img/Sale Heren/heren6.png" alt="Korting"></a>
+            <a href=""><img class="korting margin10" src="img/Sale Heren/heren8.jpg" alt="Korting"></a>
+        </div>
+    </section>
+    
+	<div w3-include-html="footer.html"></div>
+	<script>
+		w3IncludeHTML();
+	</script>
+    
+	<script src="index.js"></script>
+	
+</body>
+</html>
