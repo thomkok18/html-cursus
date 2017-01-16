@@ -8,42 +8,37 @@
     <link rel="stylesheet" type="text/css" href="../../kledingstukken.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-	
 	<script src="http://www.w3schools.com/lib/w3data.js"></script>
-
     <title>Kledingstuk</title>
 </head>
 <body>
-    
 	<header class="roze">
 		<div class="col-xs-12">
-            <a href="http://mijntweedewebsite-143419.appspot.com/"><img class="logo" src="../../../img/ZeeVrouwLogo.png" alt="Logo"></a>
+            <a href="../../../index.html"><img class="logo" src="../../../img/ZeeVrouwLogo.png" alt="Logo"></a>
             <nav class="navTop text-center">
-                <a href="http://mijntweedewebsite-143419.appspot.com/lwc/wagen.html">Winkelwagen</a>
-                <a href="http://mijntweedewebsite-143419.appspot.com/lwc/wagen.html"><img class="winkelwagen" src="../../../img/Winkelwagen.png" alt="Logo"></a>
-                <a href="http://mijntweedewebsite-143419.appspot.com/lwc/login.html">Login</a>
+                <a href="../../../lwc/wagen.html">Winkelwagen</a>
+                <a href="../../../lwc/wagen.html"><img class="winkelwagen" src="../../../img/Winkelwagen.png" alt="Logo"></a>
+                <a href="../../../lwc/login.html">Login</a>
             </nav>
         </div>
-		
         <div w3-include-html="../../../header.html"></div>
 		<script>
 			w3IncludeHTML();
 		</script>
     </header>
-	
-	<section class="marginBO10">
-		<aside class="col-xs-2 text-center">
+	<section class="col-xs-12 text-center marginBO10">
+		<aside class="col-xs-12 text-center">
 			<img class="overzicht margin10" src="../../../img/Sale%20Dames/dames1.png" alt="Korting">
 			<img class="overzicht margin10" src="../../../img/Sale%20Dames/dames1-1.png" alt="Korting">
 		</aside>
-		<div class="col-xs-4">
-			<img class="show" src="../../../img/Sale%20Dames/dames1.png" alt="Korting">
+		<div class="text-center">
+			<img class="col-xs-12 show margin0" src="../../../img/Sale%20Dames/dames1.png" alt="Korting">
 		</div>
-		<div class="col-xs-6">
+		<div class="col-xs-12">
 			<h3>Naam Kledingstuk</h3>
 			<p>&euro; 249,99</p>
 			<h4>&euro; 149,99</h4>
-			<form action="action_page.php">
+			<form class="marginO10" action="action_page.php">
 				<select name="Maat">
 					<option value="null" selected>Maat</option>
 					<option value="XS">XS</option>
@@ -72,13 +67,9 @@
 			</form>
 		</div>
 	</section>
-
 	<div w3-include-html="../../../footer.html"></div>
 	<script>
 		w3IncludeHTML();
 	</script>
-	
-	<script src="../kledingstukken.js"></script>
-	
 </body>
 </html>
