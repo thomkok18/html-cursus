@@ -65,6 +65,9 @@ footer h4 {
     width:150px;
     height:200px;
 }
+.cursorKlik {
+    cursor:pointer;
+}
 
 /* Margin */
 .margin10 {
