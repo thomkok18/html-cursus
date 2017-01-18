@@ -62,15 +62,9 @@ footer h4 {
 /* Eind Header en Footer */
 
 /* Afbeeldingen */
-.overzicht {
-    width:80px;
-    height:130px;
-}
-
 .showAfbeelding {
     width:200px;
     height:300px;
-    display:inline;
 }
 
 /* Margin */
