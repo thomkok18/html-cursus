@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="css/toets.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <title>Wireframe</title>
+    <title>Toets</title>
 </head>
 <body>
     <nav class="navbar navbar-inverse">
@@ -27,9 +27,6 @@
                     <li><a href="webshop.html">Webshop</a></li>
                     <li class="active"><a href="#">Winkelwagentje</a></li>
                 </ul>
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-                </ul>
             </div>
         </div>
     </nav>
@@ -40,8 +37,18 @@
         </div>
     </div>
     <section class="col-xs-12 marginB50">
+        <form class="cart" id="cart-hplus">
+            <p>Aantal:</p>
+            <input type="number" min="0" id="txt-value" size="3" placeholder="0">
+            <p>Subtotaal:</p>
+            <p id="subtotaal"></p>
+            <input type="checkbox" value="1,25" id="veters"><label>veters (1,25 per paar)</label><br>
+            <input type="checkbox" value="2,35" id="beschermers"><label>beschermers (2,35 per paar)</label><br>
+            <button>Submit</button>
+        </form>
     </section>
     <footer>
     </footer>
+<script src="js/winkelwagentje.js"></script>
 </body>
 </html>
