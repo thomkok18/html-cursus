@@ -22,6 +22,7 @@ nav a {
     padding:10px;
     text-decoration:none;
 }
+
 .navTop {
     margin-top:40px;
     margin-bottom:50px;
@@ -40,6 +41,7 @@ footer a {
     padding:10px;
     text-decoration:none;
 }
+
 footer h4 {
     font-weight:bold;
     color:black;
@@ -59,7 +61,6 @@ footer h4 {
 }
 /* Eind Header en Footer */
 
-
 /* Afbeeldingen */
 .plaatje {
     width:150px;
@@ -67,14 +68,56 @@ footer h4 {
 	margin-top:20px;
 }
 
-/* 
-Aside
-.lijntje {
-	border-left:1px solid black;
-} 
-*/
-
 /* Margin */
 .margin10 {
     margin:10px;
 }
+
+
+/* POP UP */
+
+/* Kleur */
+.grey {
+    color:rgb(102, 102, 102);
+}
+
+/* Afbeeldingen */
+.afbeelding {
+    width:75px;
+    height:125px;
+    display:inline;
+}
+
+.showAfbeelding {
+    width:150px;
+    height:250px;
+    display:inline;
+}
+
+/* Margin */
+.marginBO10 {
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.marginT20 {
+    margin-top:20px;
+}
+
+.marginO10 {
+    margin-bottom:10px;
+}
+.marginB5 {
+    margin-top:5px;
+}
+
+/* P */
+p {
+    text-decoration:line-through;
+}
+
+.cursorKlik {
+    cursor:pointer;
+}
+
+/* Eind POP UP */

@@ -1,0 +1,64 @@
+//
+create database zeevrouw;
+
+//
+create table product (
+	artikelnr varchar(50),
+	naam varchar(50),
+	merk varchar(50),
+	prijs decimal(10,2),
+	aantal varchar(50),
+	omschrijving varchar(100),
+	primary key(artikelnr)
+) engine = innodb;
+
+// korting dames
+insert into product
+(artikelnr, naam, merk, prijs, aantal, omschrijving)
+values
+('1101', 'Overknee laarzen', 'Dungelmann', 149.99, '50', 'Korting dames schoen'),
+('1102', 'Julianna', 'Polo Ralph Lauren', 199.95, '50', 'Korting dames trui'),
+('1103', 'Trui met hoge hals', 'Skinny Luxe', 89.95, '50', 'Korting dames coltrui'),
+('1104', 'jurk Stacy', 'Mart Visser', 119.99, '50', 'Korting dames jurk'),
+('1105', 'Winterjas black', 'MYMO', 199.99, '50', 'Korting dames jas');
+
+// korting heren
+insert into product
+(artikelnr, naam, merk, prijs, aantal, omschrijving)
+values
+('1201', 'Kostuum Classic', 'Only for Men', 299.99, '50', 'Korting heren pak'),
+('1202', 'IE Classic jeans', 'Idris', 120.00, '50', 'Korting heren jas'),
+('1203', 'Sweatvesten black', 'G-STAR', 159.95, '50', 'Korting heren broek'),
+('1204', 'Straight leg jeans', 'Levis', 114.95, '50', 'Korting heren broek'),
+('1205', 'Call Sheet merinos V-hals trui', 'Idris', 159.95, '50', 'Korting heren shirt');
+
+
+// kleding dames
+insert into product
+(artikelnr, naam, merk, prijs, aantal, omschrijving)
+values
+('2101', 'Longsleeve', 'Rainbow', 49.99, '50', 'Kleding dames '),
+('2102', 'Pieces Glitter T-shirt', 'Otto', 34.99, '50', 'Kleding dames '),
+('2103', 'It Fit Shirt', 'Sans', 79.95, '50', 'Kleding dames '),
+('2104', 'Sweatblazer', 'Otto', 99.99, '50', 'Kleding dames '),
+('2105', '', '', , '50', 'Kleding dames '),
+('2106', '', '', , '50', 'Kleding dames '),
+('2107', '', '', , '50', 'Kleding dames '),
+('2108', '', '', , '50', 'Kleding dames '),
+('2109', '', '', , '50', 'Kleding dames '),
+('2110', '', '', , '50', 'Kleding dames ');
+
+// kleding heren
+insert into product
+(artikelnr, naam, merk, prijs, aantal, omschrijving)
+values
+('2201', '', '', , '50', 'Kleding heren '),
+('2202', '', '', , '50', 'Kleding heren '),
+('2203', '', '', , '50', 'Kleding heren '),
+('2204', '', '', , '50', 'Kleding heren '),
+('2205', '', '', , '50', 'Kleding heren '),
+('2206', '', '', , '50', 'Kleding heren '),
+('2207', '', '', , '50', 'Kleding heren '),
+('2208', '', '', , '50', 'Kleding heren '),
+('2209', '', '', , '50', 'Kleding heren '),
+('2210', '', '', , '50', 'Kleding heren ');

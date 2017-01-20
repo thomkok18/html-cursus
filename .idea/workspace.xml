@@ -2,11 +2,172 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baebee0c-49f4-465d-a44d-12633c53ddc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/js/winkelwagentje.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blouse-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blouse.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jas-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/rok-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/rok.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/schoen-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/schoen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/shirt-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/shirt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/vesten-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/vesten.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/broek-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/broek.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/jas-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/jas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/overhemd-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/overhemd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/pak-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/pak.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/schoen-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/schoen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/shirt-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/shirt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/top-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/trui-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/trui.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/vest-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/vest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren1-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren3-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/jassen-schoennenD.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/jassen-schoennenH.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/overhemdenH.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/pakken-broekenH.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/tops-shirtsH.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/truien-vestenH.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/app.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/database/database zeevrouw.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/popup.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/jassenD.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD9.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/kledingstukken.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blouse1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blouse1-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blouse1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blouse2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blouse2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jas1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jas1-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jas1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jas2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jas2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk1-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/rok1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/rok1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/rok2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/rok2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/shirt1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/shirt1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/shirt2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/shirt2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top1-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien1-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/vesten1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/vesten1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/vesten2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/vesten2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames10-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames6-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames7-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames8-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames9-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren10-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren3-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren6-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren7-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren8-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren9-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames2-1.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames2-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames2.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames4-1.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames4-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames4.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren2-1.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren2-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren2.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/headerfoto1.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/headerfoto1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/headerfoto2.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/headerfoto2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/headerfoto3.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/headerfoto3.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/index.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/webshop.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/webshop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/blouses-blazersD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/blouses-blazersD.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/damesKleding.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/damesKleding.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/jurken-rokkenD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/jurken-rokkenD.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/tops-shirtsD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/tops-shirtsD.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/truien-vestenD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/truien-vestenD.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingHoofdD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingHoofdD.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/heren/kortingHoofdH.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/heren/kortingHoofdH.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/herenkleding.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/herenkleding.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/kleding.css" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/kleding.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/footer.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/header.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/plaatjeschecklist.txt" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/plaatjeschecklist.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.css" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/contacten.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/contacten.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/login.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/overons.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/overons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.html" />
     </list>
     <ignored path="html-cursus.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,18 +187,7 @@
     <favorites_list name="html-cursus" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,7 +218,6 @@
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/kleding.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingD1.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Hoofdpagina/index.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.js" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/hoofdpagina/index.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kleding.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/hoofdpagina/index.css" />
@@ -96,9 +245,7 @@
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/heren/kortingHoofdH.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingD1.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/vb.js" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/css/style.css" />
@@ -109,6 +256,9 @@
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/index.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/js/winkelwagentje.js" />
+        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.js" />
+        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.css" />
+        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingD1.html" />
       </list>
     </option>
   </component>
@@ -149,8 +299,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -249,9 +397,113 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_GIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_GIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Cursus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZeeVrouw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kleding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_GIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_GIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Cursus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZeeVrouw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kleding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="korting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_GIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_GIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Cursus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZeeVrouw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kleding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="korting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dames" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,7 +529,7 @@
       <recent name="C:\Users\laptop\git\HTML_GIT\HTML-Cursus\war\HTML\ZeeVrouw\kleding" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.kortingD1.html">
     <configuration default="false" name="kortingD1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML_GIT/html-cursus/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingD1.html">
       <method />
     </configuration>
@@ -720,10 +972,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.BoterKaasEieren.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.kortingD1.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.kortingD1.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.BoterKaasEieren.html" />
         <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.kortingHoofdD.html" />
       </list>
     </recent_temporary>
@@ -829,14 +1081,9 @@
       <workItem from="1484724916542" duration="5825000" />
       <workItem from="1484733998494" duration="13393000" />
       <workItem from="1484811589881" duration="4391000" />
-      <workItem from="1484897796168" duration="59000" />
-    </task>
-    <task id="LOCAL-00004" summary="update">
-      <created>1478085450567</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1478085450567</updated>
+      <workItem from="1484897796168" duration="12352000" />
+      <workItem from="1484911885141" duration="167000" />
+      <workItem from="1484914541253" duration="48000" />
     </task>
     <task id="LOCAL-00005" summary="update">
       <created>1478085817686</created>
@@ -1174,11 +1421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484749115174</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="update">
+      <created>1484897868608</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1484897868608</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288243000" />
+    <option name="totallyTimeSpent" value="300751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1195,7 +1449,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22291666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1252,20 +1506,6 @@
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/hoofdpagina/index.html" />
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/test/kledingstukken.css" />
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/test/index.html" />
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kleding.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/contacten.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -1330,13 +1570,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/jassenD.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/jassenD.html" />
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/blouses-blazersD.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -1366,13 +1600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingD2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingD2.html" />
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingHoofdD.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
@@ -1398,28 +1626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingD1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -1476,7 +1682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1484,7 +1689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1492,7 +1696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1500,7 +1703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1508,17 +1710,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.js" />
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.css" />
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kleding.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="-392">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingD1.html" />
   </component>
 </project>
