@@ -1,3 +1,9 @@
+<!--
+* naam: Thom Kok
+* groep: 6C
+* datum: 25-1-2017
+-->
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,15 +42,64 @@
            <p>Resize this responsive page to see the effect!</p>
         </div>
     </div>
-    <section class="col-xs-12 marginB50">
-        <form class="cart" id="cart-hplus">
-            <p>Aantal:</p>
-            <input type="number" min="0" id="txt-value" size="3" placeholder="0">
-            <p>Subtotaal:</p>
-            <p id="subtotaal"></p>
-            <input type="checkbox" value="1,25" id="veters"><label>veters (1,25 per paar)</label><br>
-            <input type="checkbox" value="2,35" id="beschermers"><label>beschermers (2,35 per paar)</label><br>
-            <button>Submit</button>
+    <section class="container">
+        <form class="cart" id="winkelwagentje">
+            <div class="row marginB20">
+                <img class="col-xs-12 col-sm-6 winkelwagenImage" src="https://placehold.it/1200x400?text=IMAGE" alt="Image">
+                <div class="col-xs-12 col-sm-2">
+                    <h3 class="marginT10">Naam Item</h3>
+                    <p>Model: Item</p>
+                    <p>Prijs: &euro;50.00</p>
+                </div>
+                <div class="col-xs-12 col-sm-2">
+                    <p class="marginT10">Aantal:</p>
+                    <input type="number" min="0" value="0" id="aantal1">
+                </div>
+                <div class="col-xs-12 col-sm-2 marginT10">
+                    <p id="subtotaal1">Subtotaal: &euro;0.00</p>
+                </div>
+            </div>
+            <div class="row marginB20">
+                <img class="col-xs-12 col-sm-6 winkelwagenImage" src="https://placehold.it/1200x400?text=IMAGE" alt="Image">
+                <div class="col-xs-12 col-sm-2">
+                    <h3 class="marginT10">Naam Item</h3>
+                    <p>Model: Item</p>
+                    <p>Prijs: &euro;50.00</p>
+                </div>
+                <div class="col-xs-12 col-sm-2">
+                    <p class="marginT10">Aantal:</p>
+                    <input type="number" min="0" value="0" id="aantal2">
+                </div>
+                <div class="col-xs-12 col-sm-2 marginT10">
+                    <p id="subtotaal2">Subtotaal: &euro;0.00</p>
+                </div>
+            </div>
+            <div class="row marginB20">
+                <img class="col-xs-12 col-sm-6 winkelwagenImage" src="https://placehold.it/1200x400?text=IMAGE" alt="Image">
+                <div class="col-xs-12 col-sm-2">
+                    <h3 class="marginT10">Naam Item</h3>
+                    <p>Model: Item</p>
+                    <p>Prijs: &euro;50.00</p>
+                </div>
+                <div class="col-xs-12 col-sm-2">
+                    <p class="marginT10">Aantal:</p>
+                    <input type="number" min="0" value="0" id="aantal3">
+                </div>
+                <div class="col-xs-12 col-sm-2 marginT10">
+                    <p id="subtotaal3">Subtotaal: &euro;0.00</p>
+                </div>
+            </div>
+            <div class="row marginB20">
+                <div class="col-xs-12 col-sm-7">
+                    <p id="subtotaal"></p>
+                    <input type="checkbox" value="1.25" id="veters" name="veters"><label>veters (1,25 per paar)</label><br>
+                    <input type="checkbox" value="2.35" id="beschermers" name="beschermers"><label>beschermers (2,35 per paar)</label><br>
+                </div>
+                <div class="col-xs-12 col-sm-5">
+                    <input id="button" class="col-xs-12 col-sm-6 marginB10" type="submit" value="Submit">
+                    <div class="col-xs-12 col-sm-6" id="totaal">&euro;0.00</div>
+                </div>
+            </div>
         </form>
     </section>
     <footer>
