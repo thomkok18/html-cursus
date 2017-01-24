@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baebee0c-49f4-465d-a44d-12633c53ddc7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien-2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer-1.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk-1.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top-1.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien-1.jpg" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien-1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/css/toets.css" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/css/toets.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/js/winkelwagentje.js" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/js/winkelwagentje.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/blouses-blazersD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/blouses-blazersD.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/damesKleding.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/damesKleding.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/jassen-schoennenD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/jassen-schoennenD.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/jurken-rokkenD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/jurken-rokkenD.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/tops-shirtsD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/tops-shirtsD.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/truien-vestenD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/truien-vestenD.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingHoofdD.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingHoofdD.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/heren/kortingHoofdH.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/heren/kortingHoofdH.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/herenkleding.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/herenkleding.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/jassen-schoennenH.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/jassen-schoennenH.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/overhemdenH.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/overhemdenH.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/pakken-broekenH.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/pakken-broekenH.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/tops-shirtsH.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/tops-shirtsH.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/truien-vestenH.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/truien-vestenH.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/contacten.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/contacten.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/login.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/overons.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/overons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/popup.js" afterPath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/popup.js" />
     </list>
     <ignored path="html-cursus.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +27,8 @@
       <file leaf-file-name="winkelwagentje.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+            <state relative-caret-position="442">
+              <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
               <folding>
                 <element signature="e#2142#2148#0" expanded="true" />
                 <element signature="e#2488#2494#0" expanded="true" />
@@ -70,16 +38,6 @@
                 <element signature="e#3974#3980#0" expanded="true" />
                 <element signature="e#4668#4674#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toets.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/css/toets.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -166,8 +124,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="265" />
-    <option name="width" value="1662" />
+    <option name="x" value="783" />
+    <option name="width" value="1144" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -320,7 +278,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -916,14 +874,7 @@
       <workItem from="1485186612414" duration="225000" />
       <workItem from="1485190540052" duration="6586000" />
       <workItem from="1485250448646" duration="18417000" />
-      <workItem from="1485274571727" duration="1598000" />
-    </task>
-    <task id="LOCAL-00007" summary="update">
-      <created>1478091104243</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1478091104243</updated>
+      <workItem from="1485274571727" duration="1672000" />
     </task>
     <task id="LOCAL-00008" summary="update">
       <created>1478091352402</created>
@@ -1261,14 +1212,21 @@
       <option name="project" value="LOCAL" />
       <updated>1484918475500</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="update">
+      <created>1485276192955</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1485276192955</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338263000" />
+    <option name="totallyTimeSpent" value="338337000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="265" y="0" width="1662" height="1047" extended-state="0" />
+    <frame x="783" y="0" width="1144" height="1047" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1282,7 +1240,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22539489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289007" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1568,18 +1526,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="41" column="67" selection-start-line="41" selection-start-column="67" selection-end-line="41" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1587,6 +1538,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1594,13 +1546,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="105" column="68" selection-start-line="105" selection-start-column="62" selection-end-line="105" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/js/winkelwagentje.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="100" selection-start-line="35" selection-start-column="100" selection-end-line="35" selection-end-column="100" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1612,10 +1558,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/js/winkelwagentje.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="100" selection-start-line="35" selection-start-column="100" selection-end-line="35" selection-end-column="100" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+        <state relative-caret-position="442">
+          <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
           <folding>
             <element signature="e#2142#2148#0" expanded="true" />
             <element signature="e#2488#2494#0" expanded="true" />
