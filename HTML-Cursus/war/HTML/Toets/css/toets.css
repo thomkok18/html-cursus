@@ -15,22 +15,23 @@
     margin:0px;
 }
 
-/* Footer */
-footer {
-    height:100px;
-    background-color:darkgray;
-    clear:both;
-}
-
 /* Afbeelding */
 
 .image {
     width:100%;
-    height:300px;
+    height:33%;
 }
 .winkelwagenImage {
-    width:300px;
-    height:300px;
+    width:250px;
+    height:250px;
+}
+.jumbotron {
+    background-image: url("../img/icehockey_head.jpg");
+    background-size:cover;
+}
+.skates {
+    width:100%;
+    height:16%;
 }
 
 /* Margin */
@@ -38,11 +39,17 @@ footer {
 .margin10 {
     margin:10px;
 }
+.marginB0 {
+    margin-bottom:0px;
+}
 .marginT10 {
     margin-top:10px;
 }
 .marginL10 {
     margin-left:10px;
+}
+.marginL250 {
+    margin-left:250px;
 }
 .marginB50 {
     margin-bottom:50px;
@@ -69,6 +76,9 @@ footer {
 .floatLeft {
     float:left;
 }
+.floatRight {
+    float:right;
+}
 
 /* P */
 
@@ -81,4 +91,17 @@ p {
 }
 #button {
     width:100px;
+}
+p, a {
+    font-family: 'Cabin', sans-serif;
+}
+h1, h2, h3 {
+    font-weight: bold;
+    font-family: 'Cabin', sans-serif;
+}
+.textalignR {
+    text-align:right;
+}
+.displayInline {
+    display:inline;
 }
