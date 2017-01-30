@@ -1,6 +1,9 @@
-// * naam: Thom Kok
-// * groep: 6C
-// * datum: 25-1-2017
+function function1() {
+    document.getElementById("plaatje").innerHTML = "<img class='showAfbeelding' src='img/Sale%20Dames/dames1.png' alt='Korting'>";
+}
+function function2() {
+    document.getElementById("plaatje").innerHTML = "<img class='showAfbeelding' src='img/Sale%20Dames/dames1-1.png' alt='Korting'>";
+}
 
 document.getElementById('winkelwagentje').addEventListener('submit', function (event) {
     event.preventDefault();
@@ -12,20 +15,9 @@ document.getElementById('winkelwagentje').addEventListener('submit', function (e
         prijs2 = 55,
         prijs3 = 65;
 
-    if (document.getElementById('veters').checked == true) {
-        var veters = document.getElementById('veters').value;
-    } else {
-        var veters = 0;
-    }
-    if (document.getElementById('beschermers').checked == true) {
-        var beschermers = document.getElementById('beschermers').value;
-    } else {
-        var beschermers = 0;
-    }
-
-    var prijs1Totaal = parseFloat((prijs1 * aantal1) + (aantal1 * veters) + (aantal1 * beschermers)),
-        prijs2Totaal = parseFloat((prijs2 * aantal2) + (aantal2 * veters) + (aantal2 * beschermers)),
-        prijs3Totaal = parseFloat((prijs3 * aantal3) + (aantal3 * veters) + (aantal3 * beschermers));
+    var prijs1Totaal = parseFloat((prijs1 * aantal1)),
+        prijs2Totaal = parseFloat((prijs2 * aantal2)),
+        prijs3Totaal = parseFloat((prijs3 * aantal3));
 
     var uitkomstPrijs = parseFloat(prijs1Totaal + prijs2Totaal + prijs3Totaal).toFixed(2);
 

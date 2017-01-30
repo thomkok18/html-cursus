@@ -8,29 +8,22 @@ function function2() {
 document.getElementById('winkelwagentje').addEventListener('submit', function (event) {
     event.preventDefault();
 
-    var maatDames1 = parseFloat(149.99) || 0, aantalDames1 = parseFloat(document.getElementById('aantal').value) || 0;
-    var prijs = '\u20AC' + (maatDames1 * aantalDames1).toFixed(2);
+    var aantal1 = parseInt(document.getElementById('aantal1').value) || 0,
+        aantal2 = parseInt(document.getElementById('aantal2').value) || 0,
+        aantal3 = parseInt(document.getElementById('aantal3').value) || 0;
+    var prijs1 = 45,
+        prijs2 = 55,
+        prijs3 = 65;
 
-    switch (aantalDames1) {
-        case 'één' :
-            aantalDames1 = 1;
-            break;
-        case 'twee' :
-            aantalDames1 = 2;
-            break;
-        case 'drie' :
-            aantalDames1 = 3;
-            break;
-        case 'vier' :
-            aantalDames1 = 4;
-            break;
-        case 'vijf' :
-            aantalDames1 = 5;
-            break;
-        default :
-            aantalDames1 = 0;
-            break;
-    }
-    console.log('verstuurd');
-    document.getElementById('totaal').value = prijs;
+    var prijs1Totaal = parseFloat((prijs1 * aantal1)),
+        prijs2Totaal = parseFloat((prijs2 * aantal2)),
+        prijs3Totaal = parseFloat((prijs3 * aantal3));
+
+    var uitkomstPrijs = parseFloat(prijs1Totaal + prijs2Totaal + prijs3Totaal).toFixed(2);
+
+    console.log('Verstuurd.');
+    document.getElementById('totaal').innerHTML = 'Totaal: \u20AC' + uitkomstPrijs;
+    document.getElementById('subtotaal1').innerHTML = 'Subtotaal: \u20AC' + prijs1Totaal.toFixed(2);
+    document.getElementById('subtotaal2').innerHTML = 'Subtotaal: \u20AC' + prijs2Totaal.toFixed(2);
+    document.getElementById('subtotaal3').innerHTML = 'Subtotaal: \u20AC' + prijs3Totaal.toFixed(2);
 })

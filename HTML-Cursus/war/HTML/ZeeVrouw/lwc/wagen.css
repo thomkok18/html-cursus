@@ -33,6 +33,14 @@ nav a {
     float:left;
 }
 
+.winkelwagenImage {
+    width:100px;
+    height:200px;
+}
+#aantal1, #aantal2, #aantal3{
+    width:45px;
+}
+
 /* Footer */
 footer a {
     color:black;
