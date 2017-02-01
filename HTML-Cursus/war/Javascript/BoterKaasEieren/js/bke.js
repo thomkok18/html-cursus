@@ -28,8 +28,4 @@ function btnStartReset(event) {
     }
 }
 
-if (document.getElementsByClassName("players-turn" == 1)) {
-var td = document.getElementsByTagName(td);
-    td.setAttribute("src", "img/cross.jpg")
-}
 cel =  document.querySelector('Button');
