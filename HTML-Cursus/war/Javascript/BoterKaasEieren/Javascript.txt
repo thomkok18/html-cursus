@@ -1,0 +1,30 @@
+document (whole html page)
+document.body (whole body)
+document.body.childNodes (all childnodes like "<header>, <article> and <footer>"
+document.body.childNodes[1] (gives the second childNode)
+dir(document.body.childNodes) (vertical list of the nodes)
+monitorEvents(document.getElementById("main"), click) (click on the webpage where the id is and you will get a click event)
+
+$("header nav ol>li") (goes to the header then the nav inside and then the ol inside then the first li)
+$$("header nav ol>li") (goes to all the li in header then nav then ol)
+
+document.forms (gives all the forms)
+document.forms[0] (gives the first form)
+
+document.querySelector("#main") (gives the whole element with the id of main)
+document.querySelectorAll("a") (selects all the a tags)
+
+document.getElementById("id") (gives the element with a id of id)
+document.getElementById("id").attributes (gives all the attributes of id)
+document.getElementById("id").nodeValue = "hoi" (sets the id value to hoi)
+document.getElementById("id").parentNode (gives the parent of id)
+
+document.getElementById("id").getElementsByTagName("li") (gives all the li tags in the id)
+document.getElementsByClassName("class") (gives all the classes of class)
+document.getElementById("id").getElementsByClassName("class") (gives all the classes in id with class name class)
+
+getElementsByTagName(li); (gives all li tags)
+
+console.log("hoi"); (puts a message in the console)
+console.dir("document.querySelector("#main")"); (gives all the methods and properties of this element)
+ctrl L (clean the console)
