@@ -27,8 +27,8 @@
       <file leaf-file-name="BoterKaasEieren.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+            <state relative-caret-position="578">
+              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,18 @@
       <file leaf-file-name="bke.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="793">
-              <caret line="175" column="1" selection-start-line="175" selection-start-column="1" selection-end-line="175" selection-end-column="1" />
+            <state relative-caret-position="708">
+              <caret line="253" column="17" selection-start-line="253" selection-start-column="17" selection-end-line="253" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vb.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/vb.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,7 +87,6 @@
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenschoennen/herenschoennen.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/vb.js" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/css/style.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/js/toets.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.js" />
@@ -115,6 +124,7 @@
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.js" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html" />
+        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/vb.js" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js" />
       </list>
     </option>
@@ -1006,14 +1016,7 @@
       <workItem from="1488472703048" duration="382000" />
       <workItem from="1488532256100" duration="1958000" />
       <workItem from="1488978560090" duration="6591000" />
-      <workItem from="1488997484445" duration="1738000" />
-    </task>
-    <task id="LOCAL-00013" summary="update">
-      <created>1478171663087</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1478171663087</updated>
+      <workItem from="1488997484445" duration="8155000" />
     </task>
     <task id="LOCAL-00014" summary="update">
       <created>1478175029889</created>
@@ -1351,11 +1354,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488984089381</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="update">
+      <created>1488999232286</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1488999232289</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="389821000" />
+    <option name="totallyTimeSpent" value="396238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -1690,13 +1700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/vb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -1720,16 +1723,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+        <state relative-caret-position="578">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/vb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="793">
-          <caret line="175" column="1" selection-start-line="175" selection-start-column="1" selection-end-line="175" selection-end-column="1" />
+        <state relative-caret-position="708">
+          <caret line="253" column="17" selection-start-line="253" selection-start-column="17" selection-end-line="253" selection-end-column="17" />
           <folding />
         </state>
       </provider>
