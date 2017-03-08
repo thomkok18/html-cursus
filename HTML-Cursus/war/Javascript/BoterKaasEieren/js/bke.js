@@ -6,12 +6,12 @@
  *
  **************************************************/
 
-
-
-var x = "img/cross.jpg", o = "img/circle.jpg",
+var x = "img/cross.jpg", o = "img/circle.jpg", e = "img/empty.jpg",
     btnStartStop = document.querySelector('Button'),
     speler = document.querySelectorAll('.players-turn tbody tr td')[2],
     spelerImg = document.querySelectorAll('.players-turn tbody tr td img')[0],
+    speler1 = document.querySelectorAll('.rounds-info tbody tr td img')[0],
+    speler2 = document.querySelectorAll('.rounds-info tbody tr td img')[1],
     cel1 = document.querySelectorAll('#speelveld table tbody tr td img')[0],
     cel2 = document.querySelectorAll('#speelveld table tbody tr td img')[1],
     cel3 = document.querySelectorAll('#speelveld table tbody tr td img')[2],
@@ -39,112 +39,138 @@ window.onload = function () {
 
 };
 
-
 /* functies */
 function btnStartReset(event) {
     if (this.innerText == 'Start spel') {
         this.innerText = 'Reset spel';
     } else {
         this.innerText = 'Start spel';
+        cel1.src = e;
+        cel2.src = e;
+        cel3.src = e;
+        cel4.src = e;
+        cel5.src = e;
+        cel6.src = e;
+        cel7.src = e;
+        cel8.src = e;
+        cel9.src = e;
     }
 }
 
 function aanZet1(event) {
-    if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
-        cel1.src = x;
-        spelerImg.src = o;
-        speler.innerText = 2;
-    } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
-        cel1.src = o;
-        spelerImg.src = x;
-        speler.innerText = 1;
+    if (cel1.src != speler1.src && cel1.src != speler2.src) {
+        if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
+            cel1.src = x;
+            spelerImg.src = o;
+            speler.innerText = 2;
+        } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
+            cel1.src = o;
+            spelerImg.src = x;
+            speler.innerText = 1;
+        }
     }
 }
 function aanZet2(event) {
-    if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
-        cel2.src = x;
-        spelerImg.src = o;
-        speler.innerText = 2;
-    } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
-        cel2.src = o;
-        spelerImg.src = x;
-        speler.innerText = 1;
+    if (cel2.src != speler1.src && cel2.src != speler2.src) {
+        if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
+            cel2.src = x;
+            spelerImg.src = o;
+            speler.innerText = 2;
+        } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
+            cel2.src = o;
+            spelerImg.src = x;
+            speler.innerText = 1;
+        }
     }
 }
 function aanZet3(event) {
-    if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
-        cel3.src = x;
-        spelerImg.src = o;
-        speler.innerText = 2;
-    } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
-        cel3.src = o;
-        spelerImg.src = x;
-        speler.innerText = 1;
+    if (cel3.src != speler1.src && cel3.src != speler2.src) {
+        if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
+            cel3.src = x;
+            spelerImg.src = o;
+            speler.innerText = 2;
+        } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
+            cel3.src = o;
+            spelerImg.src = x;
+            speler.innerText = 1;
+        }
     }
 }
 function aanZet4(event) {
-    if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
-        cel4.src = x;
-        spelerImg.src = o;
-        speler.innerText = 2;
-    } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
-        cel4.src = o;
-        spelerImg.src = x;
-        speler.innerText = 1;
+    if (cel4.src != speler1.src && cel4.src != speler2.src) {
+        if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
+            cel4.src = x;
+            spelerImg.src = o;
+            speler.innerText = 2;
+        } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
+            cel4.src = o;
+            spelerImg.src = x;
+            speler.innerText = 1;
+        }
     }
 }
 function aanZet5(event) {
-    if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
-        cel5.src = x;
-        spelerImg.src = o;
-        speler.innerText = 2;
-    } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
-        cel5.src = o;
-        spelerImg.src = x;
-        speler.innerText = 1;
+    if (cel5.src != speler1.src && cel5.src != speler2.src) {
+        if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
+            cel5.src = x;
+            spelerImg.src = o;
+            speler.innerText = 2;
+        } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
+            cel5.src = o;
+            spelerImg.src = x;
+            speler.innerText = 1;
+        }
     }
 }
 function aanZet6(event) {
-    if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
-        cel6.src = x;
-        spelerImg.src = o;
-        speler.innerText = 2;
-    } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
-        cel6.src = o;
-        spelerImg.src = x;
-        speler.innerText = 1;
+    if (cel6.src != speler1.src && cel6.src != speler2.src) {
+        if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
+            cel6.src = x;
+            spelerImg.src = o;
+            speler.innerText = 2;
+        } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
+            cel6.src = o;
+            spelerImg.src = x;
+            speler.innerText = 1;
+        }
     }
 }
 function aanZet7(event) {
-    if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
-        cel7.src = x;
-        spelerImg.src = o;
-        speler.innerText = 2;
-    } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
-        cel7.src = o;
-        spelerImg.src = x;
-        speler.innerText = 1;
+    if (cel7.src != speler1.src && cel7.src != speler2.src) {
+        if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
+            cel7.src = x;
+            spelerImg.src = o;
+            speler.innerText = 2;
+        } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
+            cel7.src = o;
+            spelerImg.src = x;
+            speler.innerText = 1;
+        }
     }
 }
 function aanZet8(event) {
-    if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
-        cel8.src = x;
-        spelerImg.src = o;
-        speler.innerText = 2;
-    } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
-        cel8.src = o;
-        spelerImg.src = x;
-        speler.innerText = 1;
+    if (cel8.src != speler1.src && cel8.src != speler2.src) {
+        if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
+            cel8.src = x;
+            spelerImg.src = o;
+            speler.innerText = 2;
+        } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
+            cel8.src = o;
+            spelerImg.src = x;
+            speler.innerText = 1;
+        }
     }
 }
 function aanZet9(event) {
-    if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
-        cel9.src = x;
-        spelerImg.src = o;
-        speler.innerText = 2;
-    } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
-        cel9.src = o;
-        spelerImg.src = x;
-        speler.innerText = 1;
+    if (cel9.src != speler1.src && cel9.src != speler2.src) {
+        if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 1) {
+            cel9.src = x;
+            spelerImg.src = o;
+            speler.innerText = 2;
+        } else if (btnStartStop.innerHTML != "Start spel" && speler.innerText == 2) {
+            cel9.src = o;
+            spelerImg.src = x;
+            speler.innerText = 1;
+        }
     }
 }
