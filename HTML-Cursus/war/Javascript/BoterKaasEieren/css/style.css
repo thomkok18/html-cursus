@@ -172,7 +172,7 @@ html, body {
     text-align: center;
 }
 
-button.game-button {
+button.game-button, button.switch-player {
     float: right;
     padding: 10px;
     font-family: 'Indie Flower';
@@ -193,4 +193,8 @@ button.game-button {
     -moz-box-shadow:    4px 4px 5px 0px rgba(50, 50, 50, 0.75);
     box-shadow:         4px 4px 5px 0px rgba(50, 50, 50, 0.75);
     border: 0px;
+}
+
+button.switch-player {
+    margin-top: 10px;
 }
