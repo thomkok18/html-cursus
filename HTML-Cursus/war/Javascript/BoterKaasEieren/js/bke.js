@@ -475,7 +475,6 @@ function gewonnen(event) {
         }
     } else if (cel1Gevuld == 1 && cel2Gevuld == 1 && cel3Gevuld == 1 && cel4Gevuld == 1 && cel5Gevuld == 1 && cel6Gevuld == 1 && cel7Gevuld == 1 && cel8Gevuld == 1 && cel9Gevuld == 1) {
         veldOpschonen();
-        aantalZetten = 0;
         spelerImg.src = x;
         speler.innerHTML = 1;
         aantalRondes.innerHTML++;
@@ -524,7 +523,7 @@ function computerAanzet(event) {
             computerSpeler.innerHTML = "Speler";
         }
         else if (cel2.getAttribute('src') === x && cel3.getAttribute('src') === x && cel1Gevuld == 0) {
-            cel1.src = 0;
+            cel1.src = o;
             cel1Gevuld = 1;
             speler.innerHTML = 1;
             spelerImg.src = x;
@@ -757,5 +756,6 @@ function computerAanzet(event) {
             spelerImg.src = x;
             computerSpeler.innerHTML = "Speler";
         }
+        setTimeout(gewonnen, 500);
     }
 }
