@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="baebee0c-49f4-465d-a44d-12633c53ddc7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/Computer logica.txt" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/Computer logica.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js" />
     </list>
     <ignored path="html-cursus.iws" />
@@ -37,11 +38,11 @@
       <file leaf-file-name="bke.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="595" column="26" selection-start-line="595" selection-start-column="26" selection-end-line="595" selection-end-column="26" />
+            <state relative-caret-position="283">
+              <caret line="450" column="33" selection-start-line="450" selection-start-column="33" selection-end-line="450" selection-end-column="33" />
               <folding>
-                <marker date="1489140604381" expanded="true" signature="3277:3283" ph="&amp;nbsp;" />
-                <marker date="1489140604381" expanded="true" signature="3811:3817" ph="&amp;nbsp;" />
+                <marker date="1489142196698" expanded="true" signature="3277:3283" ph="&amp;nbsp;" />
+                <marker date="1489142196698" expanded="true" signature="3811:3817" ph="&amp;nbsp;" />
               </folding>
             </state>
           </provider>
@@ -68,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/hoofdpagina/index.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/lwc.css" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/test/testje.html" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/test/kledingstukken.css" />
@@ -119,6 +119,7 @@
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html" />
         <option value="chrome-extension://cfhdojbkjhnklbpkdaibdccddilifddb/include.postload.js" />
         <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js" />
+        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/Computer logica.txt" />
       </list>
     </option>
   </component>
@@ -130,9 +131,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="789" />
-    <option name="width" value="1138" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -928,14 +930,7 @@
       <workItem from="1489051399157" duration="1929000" />
       <workItem from="1489061161484" duration="25647000" />
       <workItem from="1489092700668" duration="1517000" />
-      <workItem from="1489137498762" duration="3151000" />
-    </task>
-    <task id="LOCAL-00017" summary="update">
-      <created>1478697598368</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1478697598369</updated>
+      <workItem from="1489137498762" duration="5044000" />
     </task>
     <task id="LOCAL-00018" summary="update">
       <created>1478808208441</created>
@@ -1273,14 +1268,21 @@
       <option name="project" value="LOCAL" />
       <updated>1489068871330</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="update">
+      <created>1489140667492</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1489140667492</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="433535000" />
+    <option name="totallyTimeSpent" value="435428000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="789" y="0" width="1138" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1294,7 +1296,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24688058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14427084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1634,14 +1636,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/Computer logica.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1650,13 +1644,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/Computer logica.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="595" column="26" selection-start-line="595" selection-start-column="26" selection-end-line="595" selection-end-column="26" />
+        <state relative-caret-position="283">
+          <caret line="450" column="33" selection-start-line="450" selection-start-column="33" selection-end-line="450" selection-end-column="33" />
           <folding>
-            <marker date="1489140604381" expanded="true" signature="3277:3283" ph="&amp;nbsp;" />
-            <marker date="1489140604381" expanded="true" signature="3811:3817" ph="&amp;nbsp;" />
+            <marker date="1489142196698" expanded="true" signature="3277:3283" ph="&amp;nbsp;" />
+            <marker date="1489142196698" expanded="true" signature="3811:3817" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>

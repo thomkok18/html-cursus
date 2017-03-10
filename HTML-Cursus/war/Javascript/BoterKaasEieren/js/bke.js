@@ -123,7 +123,7 @@ function keuze1(event) {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
             if (cel1.src != speler1.src && cel1.src != speler2.src) {
                 aantalZetten++;
-                if (btnStartStop.innerHTML != "Start spel") {
+                if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel1.src = x;
                     spelerImg.src = o;
                     speler.innerHTML = 2;
@@ -160,7 +160,7 @@ function keuze2(event) {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
             if (cel2.src != speler1.src && cel2.src != speler2.src) {
                 aantalZetten++;
-                if (btnStartStop.innerHTML != "Start spel") {
+                if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel2.src = x;
                     spelerImg.src = o;
                     speler.innerHTML = 2;
@@ -197,7 +197,7 @@ function keuze3(event) {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
             if (cel3.src != speler1.src && cel3.src != speler2.src) {
                 aantalZetten++;
-                if (btnStartStop.innerHTML != "Start spel") {
+                if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel3.src = x;
                     spelerImg.src = o;
                     speler.innerHTML = 2;
@@ -234,7 +234,7 @@ function keuze4(event) {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
             if (cel4.src != speler1.src && cel4.src != speler2.src) {
                 aantalZetten++;
-                if (btnStartStop.innerHTML != "Start spel") {
+                if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel4.src = x;
                     spelerImg.src = o;
                     speler.innerHTML = 2;
@@ -271,7 +271,7 @@ function keuze5(event) {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
             if (cel5.src != speler1.src && cel5.src != speler2.src) {
                 aantalZetten++;
-                if (btnStartStop.innerHTML != "Start spel") {
+                if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel5.src = x;
                     spelerImg.src = o;
                     speler.innerHTML = 2;
@@ -308,7 +308,7 @@ function keuze6(event) {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
             if (cel6.src != speler1.src && cel6.src != speler2.src) {
                 aantalZetten++;
-                if (btnStartStop.innerHTML != "Start spel") {
+                if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel6.src = x;
                     spelerImg.src = o;
                     speler.innerHTML = 2;
@@ -345,7 +345,7 @@ function keuze7(event) {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
             if (cel7.src != speler1.src && cel7.src != speler2.src) {
                 aantalZetten++;
-                if (btnStartStop.innerHTML != "Start spel") {
+                if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel7.src = x;
                     spelerImg.src = o;
                     speler.innerHTML = 2;
@@ -382,7 +382,7 @@ function keuze8(event) {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
             if (cel8.src != speler1.src && cel8.src != speler2.src) {
                 aantalZetten++;
-                if (btnStartStop.innerHTML != "Start spel") {
+                if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel8.src = x;
                     spelerImg.src = o;
                     speler.innerHTML = 2;
@@ -419,7 +419,7 @@ function keuze9(event) {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
             if (cel9.src != speler1.src && cel9.src != speler2.src) {
                 aantalZetten++;
-                if (btnStartStop.innerHTML != "Start spel") {
+                if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel9.src = x;
                     spelerImg.src = o;
                     speler.innerHTML = 2;
@@ -439,40 +439,47 @@ function keuze9(event) {
 }
 
 function gewonnen(event) {
-    if (cel1.src == speler1.src && cel2.src == speler1.src && cel3.src == speler1.src
-        || cel4.src == speler1.src && cel5.src == speler1.src && cel6.src == speler1.src
-        || cel7.src == speler1.src && cel8.src == speler1.src && cel9.src == speler1.src
-        || cel1.src == speler1.src && cel4.src == speler1.src && cel7.src == speler1.src
-        || cel2.src == speler1.src && cel5.src == speler1.src && cel8.src == speler1.src
-        || cel3.src == speler1.src && cel6.src == speler1.src && cel9.src == speler1.src
-        || cel1.src == speler1.src && cel5.src == speler1.src && cel9.src == speler1.src
-        || cel3.src == speler1.src && cel5.src == speler1.src && cel7.src == speler1.src) {
+    if (cel1.getAttribute('src') == speler1.getAttribute('src') && cel2.getAttribute('src') == speler1.getAttribute('src') && cel3.getAttribute('src') == speler1.getAttribute('src')
+        || cel4.getAttribute('src') == speler1.getAttribute('src') && cel5.getAttribute('src') == speler1.getAttribute('src') && cel6.getAttribute('src') == speler1.getAttribute('src')
+        || cel7.getAttribute('src') == speler1.getAttribute('src') && cel8.getAttribute('src') == speler1.getAttribute('src') && cel9.getAttribute('src') == speler1.getAttribute('src')
+        || cel1.getAttribute('src') == speler1.getAttribute('src') && cel4.getAttribute('src') == speler1.getAttribute('src') && cel7.getAttribute('src') == speler1.getAttribute('src')
+        || cel2.getAttribute('src') == speler1.getAttribute('src') && cel5.getAttribute('src') == speler1.getAttribute('src') && cel8.getAttribute('src') == speler1.getAttribute('src')
+        || cel3.getAttribute('src') == speler1.getAttribute('src') && cel6.getAttribute('src') == speler1.getAttribute('src') && cel9.getAttribute('src') == speler1.getAttribute('src')
+        || cel1.getAttribute('src') == speler1.getAttribute('src') && cel5.getAttribute('src') == speler1.getAttribute('src') && cel9.getAttribute('src') == speler1.getAttribute('src')
+        || cel3.getAttribute('src') == speler1.getAttribute('src') && cel5.getAttribute('src') == speler1.getAttribute('src') && cel7.getAttribute('src') == speler1.getAttribute('src')) {
         scoreSpeler1.innerHTML++;
         aantalRondes.innerHTML++;
         spelerImg.src = x;
         speler.innerHTML = 1;
         aantalZetten = 0;
         veldOpschonen();
-    } else if (cel1.src == speler2.src && cel2.src == speler2.src && cel3.src == speler2.src
-        || cel4.src == speler2.src && cel5.src == speler2.src && cel6.src == speler2.src
-        || cel7.src == speler2.src && cel8.src == speler2.src && cel9.src == speler2.src
-        || cel1.src == speler2.src && cel4.src == speler2.src && cel7.src == speler2.src
-        || cel2.src == speler2.src && cel5.src == speler2.src && cel8.src == speler2.src
-        || cel3.src == speler2.src && cel6.src == speler2.src && cel9.src == speler2.src
-        || cel1.src == speler2.src && cel5.src == speler2.src && cel9.src == speler2.src
-        || cel3.src == speler2.src && cel5.src == speler2.src && cel7.src == speler2.src) {
+        alert("Speler 1 heeft gewonnen!");
+    } else if (cel1.getAttribute('src') == speler2.getAttribute('src') && cel2.getAttribute('src') == speler2.getAttribute('src') && cel3.getAttribute('src') == speler2.getAttribute('src')
+        || cel4.getAttribute('src') == speler2.getAttribute('src') && cel5.getAttribute('src') == speler2.getAttribute('src') && cel6.getAttribute('src') == speler2.getAttribute('src')
+        || cel7.getAttribute('src') == speler2.getAttribute('src') && cel8.getAttribute('src') == speler2.getAttribute('src') && cel9.getAttribute('src') == speler2.getAttribute('src')
+        || cel1.getAttribute('src') == speler2.getAttribute('src') && cel4.getAttribute('src') == speler2.getAttribute('src') && cel7.getAttribute('src') == speler2.getAttribute('src')
+        || cel2.getAttribute('src') == speler2.getAttribute('src') && cel5.getAttribute('src') == speler2.getAttribute('src') && cel8.getAttribute('src') == speler2.getAttribute('src')
+        || cel3.getAttribute('src') == speler2.getAttribute('src') && cel6.getAttribute('src') == speler2.getAttribute('src') && cel9.getAttribute('src') == speler2.getAttribute('src')
+        || cel1.getAttribute('src') == speler2.getAttribute('src') && cel5.getAttribute('src') == speler2.getAttribute('src') && cel9.getAttribute('src') == speler2.getAttribute('src')
+        || cel3.getAttribute('src') == speler2.getAttribute('src') && cel5.getAttribute('src') == speler2.getAttribute('src') && cel7.getAttribute('src') == speler2.getAttribute('src')) {
         scoreSpeler2.innerHTML++;
         aantalRondes.innerHTML++;
         spelerImg.src = x;
         speler.innerHTML = 1;
         aantalZetten = 0;
         veldOpschonen();
-    } else if (aantalZetten == 9) {
+        if (btnSpelerEnComputer.innerHTML == "Tegen speler") {
+            alert("De computer heeft gewonnen!");
+        } else {
+            alert("Speler 2 heeft gewonnen!");
+        }
+    } else if (cel1Gevuld == 1 && cel2Gevuld == 1 && cel3Gevuld == 1 && cel4Gevuld == 1 && cel5Gevuld == 1 && cel6Gevuld == 1 && cel7Gevuld == 1 && cel8Gevuld == 1 && cel9Gevuld == 1) {
         veldOpschonen();
         aantalZetten = 0;
         spelerImg.src = x;
         speler.innerHTML = 1;
         aantalRondes.innerHTML++;
+        alert("Gelijkspel!");
     }
 }
 
@@ -495,6 +502,7 @@ function veldOpschonen(event) {
     cel7Gevuld = 0;
     cel8Gevuld = 0;
     cel9Gevuld = 0;
+    aantalZetten = 0;
 }
 
 function computerAanzet(event) {
@@ -686,16 +694,16 @@ function computerAanzet(event) {
         }
 
         // IF NO OPP TO BLOCK A WIN, THEN PLAY IN ONE OF THESE SQUARES
-        else if (cel1.getAttribute('src') === e && cel1Gevuld == 0) {
-            cel1.src = o;
-            cel1Gevuld = 1;
+        else if (cel5.getAttribute('src') === e && cel5Gevuld == 0) {
+            cel5.src = o;
+            cel5Gevuld = 1;
             speler.innerHTML = 1;
             spelerImg.src = x;
             computerSpeler.innerHTML = "Speler";
         }
-        else if (cel2.getAttribute('src') === e && cel2Gevuld == 0) {
-            cel2.src = o;
-            cel2Gevuld = 1;
+        else if (cel1.getAttribute('src') === e && cel1Gevuld == 0) {
+            cel1.src = o;
+            cel1Gevuld = 1;
             speler.innerHTML = 1;
             spelerImg.src = x;
             computerSpeler.innerHTML = "Speler";
@@ -707,16 +715,30 @@ function computerAanzet(event) {
             spelerImg.src = x;
             computerSpeler.innerHTML = "Speler";
         }
-        else if (cel4.getAttribute('src') === e && cel4Gevuld == 0) {
-            cel4.src = o;
-            cel4Gevuld = 1;
+        else if (cel7.getAttribute('src') === e && cel7Gevuld == 0) {
+            cel7.src = o;
+            cel7Gevuld = 1;
             speler.innerHTML = 1;
             spelerImg.src = x;
             computerSpeler.innerHTML = "Speler";
         }
-        else if (cel5.getAttribute('src') === e && cel5Gevuld == 0) {
-            cel5.src = o;
-            cel5Gevuld = 1;
+        else if (cel9.getAttribute('src') === e && cel9Gevuld == 0) {
+            cel9.src = o;
+            cel9Gevuld = 1;
+            speler.innerHTML = 1;
+            spelerImg.src = x;
+            computerSpeler.innerHTML = "Speler";
+        }
+        else if (cel2.getAttribute('src') === e && cel2Gevuld == 0) {
+            cel2.src = o;
+            cel2Gevuld = 1;
+            speler.innerHTML = 1;
+            spelerImg.src = x;
+            computerSpeler.innerHTML = "Speler";
+        }
+        else if (cel4.getAttribute('src') === e && cel4Gevuld == 0) {
+            cel4.src = o;
+            cel4Gevuld = 1;
             speler.innerHTML = 1;
             spelerImg.src = x;
             computerSpeler.innerHTML = "Speler";
@@ -728,23 +750,9 @@ function computerAanzet(event) {
             spelerImg.src = x;
             computerSpeler.innerHTML = "Speler";
         }
-        else if (cel7.getAttribute('src') === e && cel7Gevuld == 0) {
-            cel7.src = o;
-            cel7Gevuld = 1;
-            speler.innerHTML = 1;
-            spelerImg.src = x;
-            computerSpeler.innerHTML = "Speler";
-        }
         else if (cel8.getAttribute('src') === e && cel8Gevuld == 0) {
             cel8.src = o;
             cel8Gevuld = 1;
-            speler.innerHTML = 1;
-            spelerImg.src = x;
-            computerSpeler.innerHTML = "Speler";
-        }
-        else if (cel9.getAttribute('src') === e && cel9Gevuld == 0) {
-            cel9.src = o;
-            cel9Gevuld = 1;
             speler.innerHTML = 1;
             spelerImg.src = x;
             computerSpeler.innerHTML = "Speler";
