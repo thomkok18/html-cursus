@@ -108,8 +108,8 @@ function btnSpelerComputer(event) {
 
 function keuze1(event) {
     if (btnSpelerEnComputer.innerHTML == "Tegen speler") {
-        cel1Gevuld = 1;
-        if (cel1.src != speler1.src && cel1.src != speler2.src) {
+        if (cel1.src != speler1.src && cel1.src != speler2.src && speler.innerHTML == 1) {
+            cel1Gevuld = 1;
             aantalZetten++;
             if (btnStartStop.innerHTML != "Start spel") {
                 cel1.src = x;
@@ -122,8 +122,8 @@ function keuze1(event) {
         }
     } else {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
-            cel1Gevuld = 1;
             if (cel1.src != speler1.src && cel1.src != speler2.src) {
+                cel1Gevuld = 1;
                 aantalZetten++;
                 if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel1.src = x;
@@ -146,8 +146,8 @@ function keuze1(event) {
 
 function keuze2(event) {
     if (btnSpelerEnComputer.innerHTML == "Tegen speler") {
-        cel2Gevuld = 1;
-        if (cel2.src != speler1.src && cel2.src != speler2.src) {
+        if (cel2.src != speler1.src && cel2.src != speler2.src && speler.innerHTML == 1) {
+            cel2Gevuld = 1;
             aantalZetten++;
             if (btnStartStop.innerHTML != "Start spel") {
                 cel2.src = x;
@@ -160,8 +160,8 @@ function keuze2(event) {
         }
     } else {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
-            cel2Gevuld = 1;
             if (cel2.src != speler1.src && cel2.src != speler2.src) {
+                cel2Gevuld = 1;
                 aantalZetten++;
                 if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel2.src = x;
@@ -184,8 +184,8 @@ function keuze2(event) {
 
 function keuze3(event) {
     if (btnSpelerEnComputer.innerHTML == "Tegen speler") {
-        cel3Gevuld = 1;
-        if (cel3.src != speler1.src && cel3.src != speler2.src) {
+        if (cel3.src != speler1.src && cel3.src != speler2.src && speler.innerHTML == 1) {
+            cel3Gevuld = 1;
             aantalZetten++;
             if (btnStartStop.innerHTML != "Start spel") {
                 cel3.src = x;
@@ -198,8 +198,8 @@ function keuze3(event) {
         }
     } else {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
-            cel3Gevuld = 1;
             if (cel3.src != speler1.src && cel3.src != speler2.src) {
+                cel3Gevuld = 1;
                 aantalZetten++;
                 if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel3.src = x;
@@ -222,8 +222,8 @@ function keuze3(event) {
 
 function keuze4(event) {
     if (btnSpelerEnComputer.innerHTML == "Tegen speler") {
-        cel4Gevuld = 1;
-        if (cel4.src != speler1.src && cel4.src != speler2.src) {
+        if (cel4.src != speler1.src && cel4.src != speler2.src && speler.innerHTML == 1) {
+            cel4Gevuld = 1;
             aantalZetten++;
             if (btnStartStop.innerHTML != "Start spel") {
                 cel4.src = x;
@@ -236,8 +236,8 @@ function keuze4(event) {
         }
     } else {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
-            cel4Gevuld = 1;
             if (cel4.src != speler1.src && cel4.src != speler2.src) {
+                cel4Gevuld = 1;
                 aantalZetten++;
                 if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel4.src = x;
@@ -260,8 +260,8 @@ function keuze4(event) {
 
 function keuze5(event) {
     if (btnSpelerEnComputer.innerHTML == "Tegen speler") {
-        cel5Gevuld = 1;
-        if (cel5.src != speler1.src && cel5.src != speler2.src) {
+        if (cel5.src != speler1.src && cel5.src != speler2.src && speler.innerHTML == 1) {
+            cel5Gevuld = 1;
             aantalZetten++;
             if (btnStartStop.innerHTML != "Start spel") {
                 cel5.src = x;
@@ -274,8 +274,8 @@ function keuze5(event) {
         }
     } else {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
-            cel5Gevuld = 1;
             if (cel5.src != speler1.src && cel5.src != speler2.src) {
+                cel5Gevuld = 1;
                 aantalZetten++;
                 if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel5.src = x;
@@ -298,8 +298,8 @@ function keuze5(event) {
 
 function keuze6(event) {
     if (btnSpelerEnComputer.innerHTML == "Tegen speler") {
-        cel6Gevuld = 1;
-        if (cel6.src != speler1.src && cel6.src != speler2.src) {
+        if (cel6.src != speler1.src && cel6.src != speler2.src && speler.innerHTML == 1) {
+            cel6Gevuld = 1;
             aantalZetten++;
             if (btnStartStop.innerHTML != "Start spel") {
                 cel6.src = x;
@@ -312,8 +312,8 @@ function keuze6(event) {
         }
     } else {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
-            cel6Gevuld = 1;
             if (cel6.src != speler1.src && cel6.src != speler2.src) {
+                cel6Gevuld = 1;
                 aantalZetten++;
                 if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel6.src = x;
@@ -336,8 +336,8 @@ function keuze6(event) {
 
 function keuze7(event) {
     if (btnSpelerEnComputer.innerHTML == "Tegen speler") {
-        cel7Gevuld = 1;
-        if (cel7.src != speler1.src && cel7.src != speler2.src) {
+        if (cel7.src != speler1.src && cel7.src != speler2.src && speler.innerHTML == 1) {
+            cel7Gevuld = 1;
             aantalZetten++;
             if (btnStartStop.innerHTML != "Start spel") {
                 cel7.src = x;
@@ -350,8 +350,8 @@ function keuze7(event) {
         }
     } else {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
-            cel7Gevuld = 1;
             if (cel7.src != speler1.src && cel7.src != speler2.src) {
+                cel7Gevuld = 1;
                 aantalZetten++;
                 if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel7.src = x;
@@ -374,8 +374,8 @@ function keuze7(event) {
 
 function keuze8(event) {
     if (btnSpelerEnComputer.innerHTML == "Tegen speler") {
-        cel8Gevuld = 1;
-        if (cel8.src != speler1.src && cel8.src != speler2.src) {
+        if (cel8.src != speler1.src && cel8.src != speler2.src && speler.innerHTML == 1) {
+            cel8Gevuld = 1;
             aantalZetten++;
             if (btnStartStop.innerHTML != "Start spel") {
                 cel8.src = x;
@@ -388,8 +388,8 @@ function keuze8(event) {
         }
     } else {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
-            cel8Gevuld = 1;
             if (cel8.src != speler1.src && cel8.src != speler2.src) {
+                cel8Gevuld = 1;
                 aantalZetten++;
                 if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel8.src = x;
@@ -412,8 +412,8 @@ function keuze8(event) {
 
 function keuze9(event) {
     if (btnSpelerEnComputer.innerHTML == "Tegen speler") {
-        cel9Gevuld = 1;
-        if (cel9.src != speler1.src && cel9.src != speler2.src) {
+        if (cel9.src != speler1.src && cel9.src != speler2.src && speler.innerHTML == 1) {
+            cel9Gevuld = 1;
             aantalZetten++;
             if (btnStartStop.innerHTML != "Start spel") {
                 cel9.src = x;
@@ -426,8 +426,8 @@ function keuze9(event) {
         }
     } else {
         if (btnSpelerEnComputer.innerHTML == "Tegen computer") {
-            cel9Gevuld = 1;
             if (cel9.src != speler1.src && cel9.src != speler2.src) {
+                cel9Gevuld = 1;
                 aantalZetten++;
                 if (btnStartStop.innerHTML != "Start spel" && speler.innerHTML == 1) {
                     cel9.src = x;
@@ -1015,7 +1015,7 @@ function computerAanzet(event) {
                 computerSpeler.innerHTML = "Speler";
                 aanDeBeurt = false;
             }
-            setTimeout(gewonnen, 500);
         }
     }
+    setTimeout(gewonnen, 500);
 }
