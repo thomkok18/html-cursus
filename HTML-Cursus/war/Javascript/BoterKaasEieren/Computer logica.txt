@@ -10,5 +10,5 @@
 
 Problemen op dit moment:
 
-1. Computer moet winnen boven blokkeren zetten
-2. Spelers tegen elkaar kunnen geen gelijkspel krijgen
+1. Computer moet winnen
+2. Computer zet sneller neer nadat je een nieuwe ronde ingaat
