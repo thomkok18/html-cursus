@@ -1,51 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baebee0c-49f4-465d-a44d-12633c53ddc7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/Objecten.html" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/Objecten.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/js/objecten.js" afterPath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/js/objecten.js" />
+    <list default="true" id="baebee0c-49f4-465d-a44d-12633c53ddc7" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/.settings/com.google.appengine.eclipse.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/.settings/com.google.gdt.eclipse.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/HTML-Cursus.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/src/META-INF/jdoconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/src/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/src/html/HTML_CursusServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/src/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/css/burton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/css/burton_login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/appel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/book.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/burton_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/bus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/desk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/football.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/img/pythagoras.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Burton Education/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Tabel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Tabellen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/css/toets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/icehockey1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/icehockey2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/icehockey3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/icehockey4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/icehockey_head.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/webshop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/css/truemusic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/img/drums.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/img/gitaar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/img/saxofoon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/img/trompet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/img/truemusic-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/TrueMusic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/css/wilkens.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/img/elektriciteit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/img/wilkens_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/css/wireframe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/img/Chat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/img/Global.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/img/Group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/blouses-blazersD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/damesKleding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/jassen-schoennenD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/jurken-rokkenD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/tops-shirtsD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/DamesKleding/truien-vestenD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/Dames/kortingHoofdD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/Korting/heren/kortingHoofdH.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/herenkleding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/jassen-schoennenH.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/overhemdenH.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/pakken-broekenH.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/tops-shirtsH.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/herenkleding/truien-vestenH.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/kleding.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/Kleding/kledingstukken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/database/database zeevrouw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blazer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blouse-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/blouse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jas-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/jurk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/rok-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/rok.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/schoen-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/schoen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/shirt-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/shirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/truien.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/vesten-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Dameskleding/vesten.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/broek-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/broek.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/jas-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/jas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/overhemd-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/overhemd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/pak-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/pak.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/schoen-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/schoen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/shirt-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/shirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/top-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/trui-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/trui.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/vest-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Herenkleding/vest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames2-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames3-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames4-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames5-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Dames/dames5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren2-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren3-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren4-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren5-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Sale Heren/heren5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/Winkelwagen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/ZeeVrouwLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/headerfoto1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/headerfoto2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/headerfoto3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/img/plaatjeschecklist.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/contacten.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/overons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/winkelwagentje.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/Animate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/Disco.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/KleurSorteerKnop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/KloptOfNiet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/LiDesign.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/SlideUp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/JQuery/VerwijderKnop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/background-playfield.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/circle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/cross.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/empty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/vb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Gegevens/GegevensArray.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Gegevens/js/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/Objecten.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/js/objecten.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/appengine-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/appengine-api-1.0-sdk-1.9.34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/appengine-api-labs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/appengine-endpoints-deps.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/appengine-endpoints.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/appengine-jsr107cache-1.9.34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/asm-4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/datanucleus-api-jdo-3.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/datanucleus-api-jpa-3.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/datanucleus-appengine-2.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/datanucleus-core-3.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/geronimo-jpa_2.0_spec-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/jdo-api-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/jsr107cache-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/lib/jta-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-Cursus/war/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
-    <ignored path="html-cursus.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="html-cursus" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Objecten.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/Objecten.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="objecten.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/js/objecten.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="111" column="31" selection-start-line="111" selection-start-column="31" selection-end-line="111" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,215 +224,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/test/index.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingD2.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/damesschoennen/damesschoennen.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/jassenD.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenschoennen/herenschoennen.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.css" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/js/toets.css" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/kledingstukken.css" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingD1.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/database/database zeevrouw.txt" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/header.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/footer.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/blouses-blazersD.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/dameskleding.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/jassen-schoennenD.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/jurken-rokkenD.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/tops-shirtsD.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/truien-vestenD.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/herenkleding.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/jassen-schoennenH.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/overhemdenH.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/pakken-broekenH.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/tops-shirtsH.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/truien-vestenH.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingHoofdD.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/heren/kortingHoofdH.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/contacten.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/login.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/overons.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/css/toets.css" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/js/winkelwagentje.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/webshop.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/popup.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/winkelwagentje.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.css" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/index.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/vb.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/css/style.css" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html" />
-        <option value="chrome-extension://cfhdojbkjhnklbpkdaibdccddilifddb/include.postload.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/Computer logica.txt" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/js/objecten.js" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/Objecten.html" />
-        <option value="$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/js/vandaag.js" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="858" />
-    <option name="width" value="1069" />
-    <option name="height" value="1047" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
+  <component name="ProjectId" id="1OvHXggHsPsoaD4DwMOipKIosdi" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML-Cursus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML-Cursus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="war" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML-Cursus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="war" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Objecten" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML_GIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML-Cursus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="war" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/School/Opdrachten/Website" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -285,274 +253,19 @@
       <recent name="C:\Users\laptop\git\HTML_GIT\HTML-Cursus\war\HTML\test" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="JavaScript Debug.Objecten.html">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML_GIT/html-cursus/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML_GIT/html-cursus/HTML-Cursus/war/HTML/TrueMusic/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML_GIT/html-cursus/HTML-Cursus/war/HTML/Burton Education/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML_GIT/html-cursus/HTML-Cursus/war/HTML/Toets/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="Objecten.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML_GIT/html-cursus/HTML-Cursus/war/Javascript/Objecten/Objecten.html">
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="depsClasspath" value="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -572,104 +285,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="html-cursus" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
@@ -700,51 +315,217 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="AndroidRunConfigurationType">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KleurSorteerKnop.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/JQuery/KleurSorteerKnop.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="Objecten.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML_GIT/html-cursus/HTML-Cursus/war/Javascript/Objecten/Objecten.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML_GIT/html-cursus/HTML-Cursus/war/HTML/TrueMusic/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML_GIT/html-cursus/HTML-Cursus/war/HTML/Burton Education/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML_GIT/html-cursus/HTML-Cursus/war/HTML/Toets/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/HTML_GIT/html-cursus/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
-      <method />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <configuration default="false" name="KleurSorteerKnop.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/html-cursus/HTML-Cursus/war/JQuery/KleurSorteerKnop.html">
-      <method />
-    </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.KleurSorteerKnop.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.Objecten.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.KleurSorteerKnop.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
+      <item itemvalue="JavaScript Debug.index.html (3)" />
+      <item itemvalue="JavaScript Debug.Objecten.html" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Objecten.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list>
+        <item itemvalue="JavaScript Debug.Objecten.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -909,6 +690,7 @@
       <workItem from="1490186072860" duration="107000" />
       <workItem from="1490701654067" duration="2379000" />
       <workItem from="1490708720482" duration="7731000" />
+      <workItem from="1564851192990" duration="1284000" />
     </task>
     <task id="LOCAL-00023" summary="update">
       <created>1480021288114</created>
@@ -1256,38 +1038,19 @@
     <option name="localTasksCounter" value="72" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="459104000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="858" y="0" width="1069" height="1047" extended-state="0" />
-    <editor active="false" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32870865" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27445394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35325506" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1297,346 +1060,8 @@
       <collection />
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="149" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/dameskleding/truien-vestenD.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/herenkleding.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="77" column="56" selection-start-line="77" selection-start-column="56" selection-end-line="77" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/jassen-schoennenH.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/overhemdenH.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="69" column="56" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/pakken-broekenH.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/tops-shirtsH.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/herenkleding/truien-vestenH.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/dames/kortingHoofdD.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="70" column="59" selection-start-line="70" selection-start-column="59" selection-end-line="70" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/kleding/korting/heren/kortingHoofdH.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="68" column="59" selection-start-line="68" selection-start-column="59" selection-end-line="68" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/contacten.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="69" column="53" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="69" column="53" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="63" column="3" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/icehockey3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/icehockey2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/icehockey1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/icehockey4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/icehockey_head.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates7.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates4.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/img/skates/skates2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/winkelwagentje.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/webshop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/overons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="71" column="13" selection-start-line="55" selection-start-column="4" selection-end-line="71" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/popup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/wagen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/JQuery/Animate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Tabellen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1224">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Tabel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/ZeeVrouw/lwc/winkelwagentje.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/winkelwagentje.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/css/toets.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Toets/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/Gegevens/GegevensArray.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/Javascript.txt" />
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/vb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="199" column="1" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/img/background-playfield.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/Computer logica.txt" />
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/BoterKaasEieren.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/BoterKaasEieren/js/bke.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="418" column="29" selection-start-line="418" selection-start-column="29" selection-end-line="418" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/WilkensElektrischeInstallaties/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/HTML/Wireframe/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/js/objecten.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="120" column="5" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/js/objecten.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="111" column="31" selection-start-line="111" selection-start-column="31" selection-end-line="111" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-Cursus/war/Javascript/Objecten/Objecten.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
