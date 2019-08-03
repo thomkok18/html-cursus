@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Winkelwagentje</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" href="wagen.css">
+    <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../img/favicon.ico" type="image/x-icon">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="http://www.w3schools.com/lib/w3data.js"></script>
+</head>
+<body>
+<header class="roze">
+    <div class="col-xs-12">
+        <a href="../index.html"><img class="logo" src="../img/ZeeVrouwLogo.png" alt="Logo"></a>
+        <nav class="navTop text-center">
+            <a href="../lwc/wagen.html">Winkelwagen</a>
+            <a href="../lwc/wagen.html"><img class="winkelwagen" src="../img/Winkelwagen.png" alt="Logo"></a>
+            <a href="../lwc/login.html">Login</a>
+        </nav>
+    </div>
+
+    <nav class="text-center floatleft">
+        <a href="../kleding/korting/dames/kortingHoofdD.html">Sale Dames</a>
+        <a href="../kleding/korting/heren/kortingHoofdH.html">Sale Heren</a>
+        <a href="../kleding/dameskleding/dameskleding.html">Dameskleding</a>
+        <a href="../kleding/herenkleding/herenkleding.html">Herenkleding</a>
+    </nav>
+</header>
+<section class="container marginB20">
+    <form class="cart" id="winkelwagentje">
+        <div class="col-xs-12 marginB20">
+            <img class="col-xs-12 col-sm-4 winkelwagenImage" src="../img/Herenkleding/schoen.jpg" alt="Image">
+            <div class="col-xs-12 col-sm-4">
+                <h3 class="col-xs-12 marginT10">Svensson skates</h3>
+                <p class="col-xs-12 marginB0">Model: BRR</p>
+                <p class="col-xs-12 marginB0">Prijs: &euro;45,-</p>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <div class="col-md-6 marginT10">
+                    <p class="displayInline">Aantal: </p><input type="number" min="0" value="0" id="aantal1">
+                </div>
+                <div class="col-md-6">
+                    <p class="marginT10" id="subtotaal1">Subtotaal: &euro;0.00</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 marginB20">
+            <img class="col-xs-12 col-sm-4 winkelwagenImage" src="../img/Dameskleding/rok.jpg" alt="Image">
+            <div class="col-xs-12 col-sm-4">
+                <h3 class="col-xs-12 marginT10">Bensson skates</h3>
+                <p class="col-xs-12 marginB0">Model: BRR</p>
+                <p class="col-xs-12 marginB0">Prijs: &euro;55,-</p>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <div class="col-md-6 marginT10">
+                    <p class="displayInline">Aantal: </p><input type="number" min="0" value="0" id="aantal2">
+                </div>
+                <div class="col-md-6">
+                    <p class="marginT10" id="subtotaal2">Subtotaal: &euro;0.00</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 marginB20">
+            <img class="col-xs-12 col-sm-4 winkelwagenImage" src="../img/Dameskleding/shirt.jpg" alt="Image">
+            <div class="col-xs-12 col-sm-4">
+                <h3 class="col-xs-12 marginT10">Karlsson skates</h3>
+                <p class="col-xs-12 marginB0">Model: BRR</p>
+                <p class="col-xs-12 marginB0">Prijs: &euro;65,-</p>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <div class="col-md-6 marginT10">
+                    <p class="displayInline">Aantal: </p><input type="number" min="0" value="0" id="aantal3">
+                </div>
+                <div class="col-md-6">
+                    <p class="marginT10" id="subtotaal3">Subtotaal: &euro;0.00</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 marginB20">
+
+            <div class="col-xs-12 marginB20">
+                <div class="col-xs-12 col-sm-8">
+                    <p id="subtotaal"></p>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div><input id="button" class="marginB10" type="submit" value="Submit"></div>
+                    <div><div id="totaal">Totaal: €0.00</div></div>
+                </div>
+            </div>
+        </div>
+    </form>
+</section>
+<footer class="col-xs-12 text-center grijs">
+    <div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
+        <h4>Contact</h4>
+        <a class="col-xs-12paddingLR0" href="../lwc/contacten.html">Contacten</a>
+        <a class="col-xs-12 paddingLR0" href="../lwc/overons.html">Over ons</a>
+    </div>
+    <div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
+        <h4>Dames</h4>
+        <a class="col-xs-12 paddingLR0" href="../kleding/korting/dames/kortingHoofdD.html">Sale</a>
+        <a class="col-xs-12 paddingLR0" href="../kleding/dameskleding/dameskleding.html">Kleding</a>
+    </div>
+    <div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
+        <h4>Heren</h4>
+        <a class="col-xs-12 paddingLR0" href="../kleding/korting/heren/kortingHoofdH.html">Sale</a>
+        <a class="col-xs-12 paddingLR0" href="../kleding/herenkleding/herenkleding.html">Kleding</a>
+    </div>
+</footer>
+<script src="winkelwagentje.js"></script>
+</body>
+</html>

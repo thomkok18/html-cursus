@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    font-family:'Arial','sans-serif';
+}
+div.links {
+    float:left;
+}
+label {
+    margin-left:10px;
+    margin-right:30px;
+}
+input {
+    margin-bottom:10px;
+}
+select {
+    margin-bottom:10px;
+}
+#voornaam {
+    margin-left:36px;
+}
+#tussenvoegsel {
+    margin-left:2px;
+}
+#achternaam {
+    margin-left:22px;
+}
+#man {
+    margin-left:45px;
+}
+#vrouw {
+    margin-left:50px;
+}
+#kleurOgen {
+    margin-left:30px;
+}
+#geboortedatum {
+    margin-left:-4px;
+}
+label.omschrijving {
+    float:left;
+}
+#omschrijving {
+    margin-left:20px;
+}
+#lekkerEten {
+    display: inline;
+}
+input.sperciebonen {
+    margin-left:15px;
+}
+input.aardappelen, input.hamburger {
+    margin-left:144px;
+}
+#annuleren {
+    margin-left:145px;
+    margin-right:10px;
+}
+#annuleren, #verzenden {
+    margin-top:210px;
+    width:80px;
+}

@@ -1,0 +1,50 @@
+header{
+	background-color: #FAEBD7;
+	padding: 10px;
+	height: 10vh;
+	clear: both;
+}
+nav{
+	background-color: Black;
+	height: 10vh;
+	padding: 30px;
+}
+nav a:link{
+	text-decoration: none;
+	color: white;
+}
+#hoofdsection {
+	background-color: Aqua;
+	height: 40vh;
+	width: 100%;
+}
+#blok1 {
+	height: 30vh;
+	width: 30%;
+	float: left;
+	background-color: Aqua;
+	margin-top: 20px;
+}
+#blok2 {
+	height: 30vh;
+	width: 30%;
+	float: left;
+	background-color: Aqua;
+	margin-left: 5%;
+	margin-top: 20px;
+}
+#blok3 {
+	height: 30vh;
+	width: 30%;
+	float: left;
+	background-color: Aqua;
+	margin-left: 5%;
+	margin-top: 20px;
+}
+footer {
+	background-color: #7FFFD4;
+	clear: both;
+	height: 5vh;
+	text-align: center;
+	color: black;
+}

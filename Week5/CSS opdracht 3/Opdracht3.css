@@ -1,0 +1,42 @@
+body {
+	padding: 20px;
+}
+#Hoofdstuk {
+	margin-bottom: 30px;
+	background-color: #FFE4C4;
+	color: black;
+	height: 50px;
+	clear: both;
+}
+#Paragraaf {
+	margin-bottom: 30px;
+	background-color: #FFE4C4;
+	color: black;
+	height: 50px;
+	clear: both;
+}
+#Rechts {
+	background-color: #FAEBD7;
+	color: black;
+	height: 700px;
+	width: 30%;
+	float: right;
+	height: 100%;
+}
+#aap {
+width: 40%;
+}
+#Links {
+	background-color: #FAEBD7;
+	color: black;
+	height: 700px;
+	width: 30%;
+	float: left;
+	height: 100%;
+}
+footer {
+	background-color: #00FFFF;
+	clear: both;
+	text-align: center;
+	color: black;
+}

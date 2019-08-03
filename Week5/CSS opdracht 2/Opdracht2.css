@@ -1,0 +1,14 @@
+#Achtergrond {
+    position: relative;
+	border: 2px solid black;
+	width: 686px;
+	height: 203px;
+}
+#Voorgrond {
+    position: absolute;
+	width: 626px;
+	height: 153px;
+	left: 30px;
+	top: 25px;
+	border: 2px solid black;
+}

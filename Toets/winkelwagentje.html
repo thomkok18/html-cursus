@@ -1,0 +1,113 @@
+<!--
+* naam: Thom Kok
+* groep: 6C
+* datum: 25-1-2017
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/toets.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet">
+    <title>Toets</title>
+</head>
+<body>
+<nav class="navbar-inverse">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand floatLeft" href="index.html">Ice Hockey</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav floatRight">
+                <li class="textalignR"><a href="index.html">Home</a></li>
+                <li class="textalignR"><a href="webshop.html">Webshop</a></li>
+                <li class="textalignR active"><a href="#">Winkelwagentje</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+    <div>
+        <div class="header jumbotron whiteText">
+            <div class="container">
+                <h1>Ice Hockey</h1>
+                <p>Winkelwagentje</p>
+            </div>
+        </div>
+    </div>
+    <section class="container marginB20">
+        <form class="cart" id="winkelwagentje">
+            <div class="col-xs-12 marginB20">
+                <img class="col-xs-12 col-sm-4 winkelwagenImage" src="img/skates/skates1.jpg" alt="Image">
+                <div class="col-xs-12 col-sm-4">
+                    <h3 class="col-xs-12 marginT10">Svensson skates</h3>
+                    <p class="col-xs-12 marginB0">Model: BRR</p>
+                    <p class="col-xs-12 marginB0">Prijs: &euro;45,-</p>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="col-md-6 marginT10">
+                        <p class="displayInline">Aantal: </p><input type="number" min="0" value="0" id="aantal1">
+                    </div>
+                    <div class="col-md-6">
+                        <p class="marginT10" id="subtotaal1">Subtotaal: &euro;0.00</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 marginB20">
+                <img class="col-xs-12 col-sm-4 winkelwagenImage" src="img/skates/skates3.png" alt="Image">
+                <div class="col-xs-12 col-sm-4">
+                    <h3 class="col-xs-12 marginT10">Bensson skates</h3>
+                    <p class="col-xs-12 marginB0">Model: BRR</p>
+                    <p class="col-xs-12 marginB0">Prijs: &euro;55,-</p>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="col-md-6 marginT10">
+                        <p class="displayInline">Aantal: </p><input type="number" min="0" value="0" id="aantal2">
+                    </div>
+                    <div class="col-md-6">
+                        <p class="marginT10" id="subtotaal2">Subtotaal: &euro;0.00</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 marginB20">
+                <img class="col-xs-12 col-sm-4 winkelwagenImage" src="img/skates/skates4.jpg" alt="Image">
+                <div class="col-xs-12 col-sm-4">
+                    <h3 class="col-xs-12 marginT10">Karlsson skates</h3>
+                    <p class="col-xs-12 marginB0">Model: BRR</p>
+                    <p class="col-xs-12 marginB0">Prijs: &euro;65,-</p>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="col-md-6 marginT10">
+                        <p class="displayInline">Aantal: </p><input type="number" min="0" value="0" id="aantal3">
+                    </div>
+                    <div class="col-md-6">
+                        <p class="marginT10" id="subtotaal3">Subtotaal: &euro;0.00</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 marginB20">
+                <div class="col-xs-12 col-sm-8">
+                    <p id="subtotaal"></p>
+                    <input type="checkbox" value="1.25" id="veters" name="veters"><label>veters (1,25 per paar)</label><br>
+                    <input type="checkbox" value="2.35" id="beschermers" name="beschermers"><label>beschermers (2,35 per paar)</label><br>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div><input id="button" class="marginB10" type="submit" value="Submit"></div>
+                    <div><div id="totaal">Totaal: &euro;0.00</div></div>
+                </div>
+            </div>
+        </form>
+    </section>
+<script src="winkelwagentje.js"></script>
+</body>
+</html>

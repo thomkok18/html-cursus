@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/burton_login.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<meta charset="UTF-8">
+<title>Burton Education</title>
+</head>
+<body>
+<form class="form-group" action="http://www.voormbo.nl/courses/html5/formtest.php" method="post">
+    <div class="links">
+        <div>
+            <label for="voornaam">Voornaam</label>
+            <input id="voornaam" type="text" name="voornaam">
+        </div>
+        <div>
+            <label for="tussenvoegsel">Tussenvoegsel</label>
+            <input id="tussenvoegsel" type="text" name="tussenvoegsel">
+        </div>
+        <div>
+            <label for="achternaam">Achternaam</label>
+            <input id="achternaam" type="text" name="achternaam">
+        </div>
+        <div>
+            <label for="geslacht">Geslacht</label>
+            <input id="man" type="radio" name="geslacht" value="man"> Man
+            <input id="vrouw" type="radio" name="geslacht" value="vrouw"> Vrouw
+        </div>
+        <div>
+            <label for="kleurogen">Kleur ogen</label>
+            <select id="kleurOgen" name="kleurOgen">
+                <option value="blauw">Blauw</option>
+                <option value="groen">Groen</option>
+                <option value="bruin">Bruin</option>
+            </select>
+        </div>
+        <div>
+            <label for="geboortedatum">Geboortedatum</label>
+            <input id="geboortedatum" type="date" name="bday">
+        </div>
+        <div>
+            <label class="omschrijving" for="omschrijving">Omschrijving</label>
+            <textarea id="omschrijving" rows="6" cols="50"></textarea>
+        </div>
+    </div>
+    <div class="rechts">
+        <div id="lekkerEten">
+            <label for="lekkereten">Lekker eten</label>
+            <input class="sperciebonen" type="checkbox" name="sperciebonen" value="Sperciebonen"> Sperciebonen<br>
+            <input class="aardappelen" type="checkbox" name="aardappelen" value="Aardappelen"> Aardappelen<br>
+            <input class="hamburger" type="checkbox" name="hamburger" value="Hamburger"> Hamburger
+        </div>
+        <div>
+            <input id="annuleren" type="button" value="Annuleren">
+            <input id="verzenden" type="submit" value="Ok">
+        </div>
+    </div>
+</form>
+</body>
+</html>

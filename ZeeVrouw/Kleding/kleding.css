@@ -1,0 +1,123 @@
+/* Schalen */
+* {
+    box-sizing:border-box;
+}
+
+/* Header en Footer */
+/* Logo en Winkelwagen */
+.logo {
+    width: 150px;
+    height: 130px;
+}
+
+.winkelwagen {
+    width:50px;
+    height:50px;
+}
+
+/* Nav */
+nav a {
+    color:black;
+    font-weight:bold;
+    padding:10px;
+    text-decoration:none;
+}
+
+.navTop {
+    margin-top:40px;
+    margin-bottom:50px;
+    float:right;
+}
+
+/* Float */
+.floatLeft {
+    float:left;
+}
+
+/* Footer */
+footer a {
+    color:black;
+    font-weight:bold;
+    padding:10px;
+    text-decoration:none;
+}
+
+footer h4 {
+    font-weight:bold;
+    color:black;
+}
+
+/* Padding */
+.paddingLR0 {
+    padding:0px;
+}
+
+/* Achtergrond kleuren */
+.roze {
+    background-color:rgb(194, 123, 160);
+}
+.grijs {
+    background-color:rgb(102, 102, 102);
+}
+/* Eind Header en Footer */
+
+/* Afbeeldingen */
+.plaatje {
+    width:150px;
+    height:200px;
+	margin-top:20px;
+}
+
+/* Margin */
+.margin10 {
+    margin:10px;
+}
+
+
+/* POP UP */
+
+/* Kleur */
+.grey {
+    color:rgb(102, 102, 102);
+}
+
+/* Afbeeldingen */
+.afbeelding {
+    width:75px;
+    height:125px;
+    display:inline;
+}
+
+.showAfbeelding {
+    width:150px;
+    height:250px;
+    display:inline;
+}
+
+/* Margin */
+.marginBO10 {
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.marginT20 {
+    margin-top:20px;
+}
+
+.marginO10 {
+    margin-bottom:10px;
+}
+.marginB5 {
+    margin-top:5px;
+}
+
+/* P */
+p {
+    text-decoration:line-through;
+}
+
+.cursorKlik {
+    cursor:pointer;
+}
+
+/* Eind POP UP */

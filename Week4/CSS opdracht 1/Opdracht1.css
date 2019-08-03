@@ -1,0 +1,27 @@
+body {
+	background-color: yellow;
+}
+header {
+	background-color: red;
+	color: black;
+	text-align: center;
+	height: 100px;
+}
+section {
+	background-color: green;
+	color: black;
+	text-align: center;
+	height: 700px;
+}
+footer {
+	background-color: black;
+	clear: both;
+	text-align: center;
+	color: white;
+	height: 100px;
+}
+#h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+#p {	font-family: 'Droid Serif', serif;
+}

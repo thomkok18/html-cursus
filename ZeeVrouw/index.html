@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+	
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+    <link rel="stylesheet" type="text/css" href="index.css">
+	<link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+	
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="http://www.w3schools.com/lib/w3data.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    
+	<header class="roze">
+		<div class="col-xs-12">
+            <a href="index.html"><img class="logo" src="img/ZeeVrouwLogo.png" alt="Logo"></a>
+            <nav class="navTop text-center">
+                <a href="lwc/wagen.html">Winkelwagen</a>
+                <a href="lwc/wagen.html"><img class="winkelwagen" src="img/Winkelwagen.png" alt="Logo"></a>
+                <a href="lwc/login.html">Login</a>
+            </nav>
+        </div>
+
+		<nav class="text-center floatleft">
+			<a href="kleding/korting/dames/kortingHoofdD.html">Sale Dames</a>
+			<a href="kleding/korting/heren/kortingHoofdH.html">Sale Heren</a>
+			<a href="kleding/dameskleding/dameskleding.html">Dameskleding</a>
+			<a href="kleding/herenkleding/herenkleding.html">Herenkleding</a>
+		</nav>
+    </header>
+	
+    <section>
+		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+				<li data-target="#myCarousel" data-slide-to="1"></li>
+				<li data-target="#myCarousel" data-slide-to="2"></li>
+			</ol>
+			<!-- Wrapper for slides -->
+			<div class="carousel-inner" role="listbox">
+				<div class="item active">
+					<img class="slideshow" src="img/headerfoto1.jpg">     
+				</div>
+
+				<div class="item">
+					<img class="slideshow" src="img/headerfoto2.jpg">
+				</div>
+				
+				<div class="item">
+					<img class="slideshow" src="img/headerfoto3.jpg">
+				</div>
+			</div>
+			<!-- Left and right controls -->
+			<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+				<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div> <!-- eind carousel -->
+		
+		
+        <div class="col-xs-12 text-center">
+            <a href=""><img class="korting" src="img/Sale Dames/dames2.jpg" alt="Korting"></a>
+
+
+
+			<img class="cursorKlik korting" src="img/Sale Dames/dames1.png" alt="Korting" data-toggle="modal" data-target="#myModal">
+			<!-- pop up -->
+			<div class="col-xs-12 modal fade" id="myModal" role="dialog">
+				<div class="modal-dialog modal-content">
+					<div class="col-xs-12 modal-header">
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+						<h4 class="modal-title">40% Korting</h4>
+					</div>
+					<div class="col-xs-12 modal-body">
+						<aside class="col-xs-12 col-sm-4">
+							<img class="afbeelding" src="img/Sale Dames/dames1.png" onclick="function1()" alt="Korting"><br>
+							<img class="afbeelding" src="img/Sale Dames/dames1-1.png" onclick="function2()" alt="Korting">
+						</aside>
+						<div class="col-xs-12 col-sm-4" id="plaatje"alt="Korting"><img class="showAfbeelding" src="img/Sale Dames/dames1.png" alt="Korting"></div>
+						<div class="col-xs-12 col-sm-4 text-center marginT20">
+							<h3>Dungelmann Overknee Laarzen</h3>
+							<p>&euro; 249,99</p>
+							<h4>&euro; 149,99</h4>
+							<form id="winkelwagentje" class="marginO10" action="action_page.php">
+								<select id="maat" name="Maat">
+									<option value="0" selected>Maat</option> <option value="XS">XS</option> <option value="S">S</option> <option value="M">M</option> <option value="L">L</option> <option value="XL">XL</option>
+								</select>
+								<select id="aantal" name="Aantal">
+									<option value="0" selected>Aantal</option> <option id="één" value="1">1</option> <option id="twee" value="2">2</option> <option id="drie" value="3">3</option> <option id="vier" value="4">4</option> <option id="vijf" value="5">5</option>
+								</select>
+								<input class="marginB5" type="submit" value="In Winkelwagentje">
+							</form>
+						</div>
+					</div>
+					<div class="modal-footer">
+					</div>
+				</div>
+			</div>
+			<!-- eind pop up -->
+			
+			
+			
+			
+			
+			<a href=""><img class="korting" src="img/Sale Heren/heren5.jpg" alt="Korting"></a>
+            <a href=""><img class="korting" src="img/Sale Heren/heren2.jpg" alt="Korting"></a>
+		</div>
+		<div class="col-xs-12 text-center">
+            <a href=""><img class="korting" src="img/Sale Dames/dames4.jpg" alt="Korting"></a>
+            <a href=""><img class="korting" src="img/Sale Dames/dames5.jpg" alt="Korting"></a>
+            <a href=""><img class="korting" src="img/Sale Heren/heren3.jpg" alt="Korting"></a>
+            <a href=""><img class="korting" src="img/Sale Heren/heren4.jpg" alt="Korting"></a>
+        </div>
+    </section>
+
+	<footer class="col-xs-12 text-center grijs">
+		<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
+			<h4>Contact</h4>
+			<a class="col-xs-12paddingLR0" href="lwc/contacten.html">Contacten</a>
+			<a class="col-xs-12 paddingLR0" href="lwc/overons.html">Over ons</a>
+		</div>
+		<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
+			<h4>Dames</h4>
+			<a class="col-xs-12 paddingLR0" href="kleding/korting/dames/kortingHoofdD.html">Sale</a>
+			<a class="col-xs-12 paddingLR0" href="kleding/dameskleding/dameskleding.html">Kleding</a>
+		</div>
+		<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
+			<h4>Heren</h4>
+			<a class="col-xs-12 paddingLR0" href="kleding/korting/heren/kortingHoofdH.html">Sale</a>
+			<a class="col-xs-12 paddingLR0" href="kleding/herenkleding/herenkleding.html">Kleding</a>
+		</div>
+	</footer>
+	
+	<script src='popup.js'></script>
+	
+</body>
+</html>
