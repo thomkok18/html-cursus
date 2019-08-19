@@ -1,11 +1,3 @@
-function function1() {
-    document.getElementById("plaatje").innerHTML = "<img class='showAfbeelding' src='img/Sale%20Dames/dames1.png' alt='Korting'>";
-}
-
-function function2() {
-    document.getElementById("plaatje").innerHTML = "<img class='showAfbeelding' src='img/Sale%20Dames/dames1-1.png' alt='Korting'>";
-}
-
 document.getElementById('winkelwagentje').addEventListener('submit', function (event) {
     event.preventDefault();
 
@@ -41,4 +33,4 @@ document.getElementById('winkelwagentje').addEventListener('submit', function (e
     document.getElementById('subtotaal1').innerHTML = 'Subtotaal: \u20AC' + prijs1Totaal.toFixed(2);
     document.getElementById('subtotaal2').innerHTML = 'Subtotaal: \u20AC' + prijs2Totaal.toFixed(2);
     document.getElementById('subtotaal3').innerHTML = 'Subtotaal: \u20AC' + prijs3Totaal.toFixed(2);
-})
+});
