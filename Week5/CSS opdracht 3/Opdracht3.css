@@ -18,10 +18,9 @@ body {
 #Rechts {
 	background-color: #FAEBD7;
 	color: black;
-	height: 700px;
+	height: 100%;
 	width: 30%;
 	float: right;
-	height: 100%;
 }
 #aap {
 width: 40%;
@@ -29,10 +28,9 @@ width: 40%;
 #Links {
 	background-color: #FAEBD7;
 	color: black;
-	height: 700px;
+	height: 100%;
 	width: 30%;
 	float: left;
-	height: 100%;
 }
 footer {
 	background-color: #00FFFF;
