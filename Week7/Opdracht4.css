@@ -1,86 +1,100 @@
 /* Labels */
 
-#Label{
-	float: left;
-	margin-left: 10px;
-	text-align: right;
+#Label {
+    float: left;
+    margin-left: 10px;
+    text-align: right;
 }
-#LabelEten{
-	float: left;
-	margin-left: 300px;
-	margin-top: -180px;
+
+#LabelEten {
+    float: left;
+    margin-left: 300px;
+    margin-top: -180px;
 }
-#Voornaam{
-	margin-bottom: 10px;
-	margin-top: 5px;
-	line-height: 15px;
+
+#Voornaam {
+    margin-bottom: 10px;
+    margin-top: 5px;
+    line-height: 15px;
 }
-#Tekst{
-	margin-bottom: 10px;
-	margin-top: 15px;
-	line-height: 15px;
+
+.Tekst {
+    margin-bottom: 10px;
+    margin-top: 15px;
+    line-height: 15px;
 }
-#LekkerEten{
-	margin-bottom: 10px;
-	margin-top: 3px;
-	margin-left: 10px;
-	position: absolute;
+
+#LekkerEten {
+    margin-bottom: 10px;
+    margin-top: 3px;
+    margin-left: 10px;
+    position: absolute;
 }
-#EtenSperciebonen{
-	margin-bottom: 5px;
-	margin-top: 3px;
-	margin-left: 120px;
-	position: absolute;
+
+#EtenSperciebonen {
+    margin-bottom: 5px;
+    margin-top: 3px;
+    margin-left: 120px;
+    position: absolute;
 }
-#EtenAardappelen{
-	margin-bottom: 5px;
-	margin-top: 3px;
-	margin-left: 120px;
-	position: absolute;
+
+#EtenAardappelen {
+    margin-bottom: 5px;
+    margin-top: 3px;
+    margin-left: 120px;
+    position: absolute;
 }
-#EtenHamburger{
-	margin-bottom: 5px;
-	margin-top: 3px;
-	margin-left: 120px;
-	position: absolute;
+
+#EtenHamburger {
+    margin-bottom: 5px;
+    margin-top: 3px;
+    margin-left: 120px;
+    position: absolute;
 }
 
 /* Invoervelden */
 
-#Sperciebonen{
-	margin-bottom: 5px;
-	margin-top: 5px;
-	margin-left: 100px;
-	position: absolute;
+#Sperciebonen {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 100px;
+    position: absolute;
 }
-#Aardappelen{
-	margin-bottom: 5px;
-	margin-top: 5px;
-	margin-left: 100px;
-	position: absolute;
+
+#Aardappelen {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 100px;
+    position: absolute;
 }
-#Hamburger{
-	margin-bottom: 5px;
-	margin-top: 5px;
-	margin-left: 100px;
-	position: absolute;
+
+#Hamburger {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 100px;
+    position: absolute;
 }
-#Klogen{
-	margin-bottom: 10px;
-	margin-left: 10px;
-	margin-top: 5px;
+
+#Klogen {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
 }
-#Tekstvak{
-	margin-bottom: 10px;
-	margin-left: 10px;
+
+.Tekstvak {
+    margin-bottom: 10px;
+    margin-left: 10px;
 }
-#Geboorte{
-	margin-left: 10px;
-	margin-bottom: -5px;
+
+#Geboorte {
+    margin-left: 10px;
+    margin-bottom: -5px;
 }
-#SubmitKnop{
-	margin-left: 510px;
+
+#SubmitKnop {
+    margin-left: 510px;
 }
-#OmschrijvingTekstvak{
-	width: 80px;
+
+.OmschrijvingTekstvak {
+    width: 80px;
 }
