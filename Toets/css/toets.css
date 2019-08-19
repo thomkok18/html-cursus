@@ -12,96 +12,114 @@
 /* Navbar */
 
 .navbar {
-    margin:0px;
+    margin: 0;
 }
 
 /* Afbeelding */
 
 .image {
-    width:100%;
-    height:33%;
+    width: 100%;
+    height: 33%;
 }
+
 .winkelwagenImage {
-    width:250px;
-    height:250px;
+    width: 250px;
+    height: 250px;
 }
+
 .jumbotron {
     background-image: url("../img/icehockey_head.jpg");
-    background-size:cover;
+    background-size: cover;
 }
+
 .skates {
-    width:100%;
-    height:16%;
+    width: 100%;
+    height: 16%;
 }
 
 /* Margin */
 
 .margin10 {
-    margin:10px;
+    margin: 10px;
 }
+
 .marginB0 {
-    margin-bottom:0px;
+    margin-bottom: 0;
 }
+
 .marginT10 {
-    margin-top:10px;
+    margin-top: 10px;
 }
+
 .marginL10 {
-    margin-left:10px;
+    margin-left: 10px;
 }
+
 .marginL250 {
-    margin-left:250px;
+    margin-left: 250px;
 }
+
 .marginB50 {
-    margin-bottom:50px;
+    margin-bottom: 50px;
 }
+
 .marginB20 {
-    margin-bottom:20px;
+    margin-bottom: 20px;
 }
+
 .marginB10 {
-    margin-bottom:10px;
+    margin-bottom: 10px;
 }
+
 .marginLR15P {
-    margin-left:15%;
-    margin-right:15%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
+
 .marginL10P {
-    margin-left:10%;
+    margin-left: 10%;
 }
 
 .paddingL0 {
-    padding-left:0px;
+    padding-left: 0;
 }
 
 /* Float */
 .floatLeft {
-    float:left;
+    float: left;
 }
+
 .floatRight {
-    float:right;
+    float: right;
 }
 
 /* P */
 
 p {
-    width:100%;
+    width: 100%;
 }
 
-#aantal1, #aantal2, #aantal3{
-    width:45px;
+#aantal1, #aantal2, #aantal3 {
+    width: 45px;
 }
+
 #button {
-    width:100px;
+    width: 100px;
 }
+
 p, a {
     font-family: 'Cabin', sans-serif;
 }
+
 h1, h2, h3 {
     font-weight: bold;
     font-family: 'Cabin', sans-serif;
 }
+
 .textalignR {
-    text-align:right;
+    text-align: right;
 }
+
 .displayInline {
-    display:inline;
+    display: inline;
 }

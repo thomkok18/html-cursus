@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <link rel="stylesheet" type="text/css" href="Opdracht4.css">
     <title>CSS opdracht</title>
@@ -15,39 +15,63 @@
     <p class="Tekst">Omschrijving</p>
 </div>
 <div>
-    <input class="Tekstvak" type="text" name="vnaam" value="">
+    <label>
+        <input class="Tekstvak" type="text" name="vnaam" value="">
+    </label>
     <br>
-    <input class="Tekstvak" type="text" name="tsnvgsl" value="">
+    <label>
+        <input class="Tekstvak" type="text" name="tsnvgsl" value="">
+    </label>
     <br>
-    <input class="Tekstvak" type="text" name="anaam" value="">
+    <label>
+        <input class="Tekstvak" type="text" name="anaam" value="">
+    </label>
     <br>
-    <input class="Tekstvak" type="radio" name="geslacht" value="man"> Man
-    <input class="Tekstvak" type="radio" name="geslacht" value="man"> Vrouw
+    <label>
+        <input class="Tekstvak" type="radio" name="geslacht" value="man">
+        Man
+    </label>
+    <label>
+        <input class="Tekstvak" type="radio" name="geslacht" value="man">
+        Vrouw
+    </label>
     <br>
-    <select id="Klogen" name="klogen">
-        <option>Groen</option>
-        <option>Grijs</option>
-        <option>Blauw</option>
-        <option>Bruin</option>
-    </select>
+    <label>
+        <select id="Klogen" name="klogen">
+            <option>Groen</option>
+            <option>Grijs</option>
+            <option>Blauw</option>
+            <option>Bruin</option>
+        </select>
+    </label>
     <br>
-    <input id="Geboorte" type="date" name="gebdatum" value="">
+    <label>
+        <input id="Geboorte" type="date" name="gebdatum" value="">
+    </label>
 </div>
 <form action="Voorbeeldformulier.html" method="post">
     <div id="LabelEten">
         <p id="LekkerEten"> Lekker eten: </p>
-        <input id="Sperciebonen" type="checkbox" name="eten" value="sperciebonen">
+        <label>
+            <input id="Sperciebonen" type="checkbox" name="eten" value="sperciebonen">
+        </label>
         <p id="EtenSperciebonen">Sperciebonen</p>
         <br>
-        <input id="Aardappelen" type="checkbox" name="eten" value="aardappelen">
+        <label>
+            <input id="Aardappelen" type="checkbox" name="eten" value="aardappelen">
+        </label>
         <p id="EtenAardappelen">Aardappelen</p>
         <br>
-        <input id="Hamburger" type="checkbox" name="eten" value="hamburger">
+        <label>
+            <input id="Hamburger" type="checkbox" name="eten" value="hamburger">
+        </label>
         <p id="EtenHamburger">Hamburger</p>
     </div>
     <br>
     <div>
-        <textarea class="Tekstvak" name="omschrijving" rows="8" cols="40"></textarea>
+        <label>
+            <textarea class="Tekstvak" name="omschrijving" rows="8" cols="40"></textarea>
+        </label>
     </div>
     <div id="SubmitKnop">
         <input class="OmschrijvingTekstvak" type="submit" value="Annuleren">

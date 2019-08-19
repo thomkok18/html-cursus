@@ -1,72 +1,86 @@
 * {
-    box-sizing:border-box;
+    box-sizing: border-box;
 }
+
 div#wrapper, footer {
-    margin:auto;
-    width:1000px;
-    padding:20px;
-    background-color:rgb(251, 235, 235);
+    margin: auto;
+    width: 1000px;
+    padding: 20px;
+    background-color: rgb(251, 235, 235);
 }
+
 body {
-    font-family:'Arial','sans-serif';
-    line-height:24px;
+    font-family: 'Arial', 'sans-serif';
+    line-height: 24px;
 }
+
 nav {
-    background-color:black;
-    padding:5px;
-    margin-top:20px;
-    margin-bottom:20px;
-    clear:both;
+    background-color: black;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    clear: both;
 }
+
 nav a {
-    color:white;
-    font-weight:bold;
-    padding:10px;
-    text-decoration:none;
-    border-right:2px solid white;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+    border-right: 2px solid white;
 }
-section.appel , section.visual {
-    width:50%;
-    float:left;
+
+section.appel, section.visual {
+    width: 50%;
+    float: left;
 }
+
 section.visuals {
-    text-align:right;
+    text-align: right;
 }
+
 img.appel {
-   width:497px;
+    width: 497px;
 }
+
 img.visual {
-    width:447px;
-    margin-bottom:13px;
+    width: 447px;
+    margin-bottom: 13px;
 }
+
 img.article {
-    margin-top:20px;
-    margin-bottom:20px;
-    width:303px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 303px;
 }
+
 article {
-    display:inline-block;
-    width:33%;
-    padding-right:15px;
-    vertical-align:top;
+    display: inline-block;
+    width: 33%;
+    padding-right: 15px;
+    vertical-align: top;
 }
+
 article:last-child {
-    padding-right:0px;
+    padding-right: 0;
 }
+
 footer {
-    background-color:rgb(166, 166, 166);
-    clear:both;
+    background-color: rgb(166, 166, 166);
+    clear: both;
 }
+
 footer a {
-    padding:5px;
-    color:white;
-    font-weight:bold;
-    text-decoration:none;
-    font-size:10px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 10px;
 }
+
 footer p {
-    font-size:10px;
-    padding:5px;
-    color:white;
-    margin:0px;
+    font-size: 10px;
+    padding: 5px;
+    color: white;
+    margin: 0;
 }

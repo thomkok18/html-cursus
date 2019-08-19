@@ -1,13 +1,17 @@
 footer {
-	clear: both;
-	text-align: center;
-	background-color: #808080;
+    clear: both;
+    text-align: center;
+    background-color: #808080;
+}
+
 #h1 {
-	font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
-#p {	font-family: 'Raleway', sans-serif;
+
+#p {
+    font-family: 'Raleway', sans-serif;
 }
-}
+
 nav {
-	background-color: blue;
+    background-color: blue;
 }
