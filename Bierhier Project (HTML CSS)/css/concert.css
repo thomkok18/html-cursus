@@ -1,0 +1,54 @@
+.concerts {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+.overview {
+    margin-bottom: 10px;
+}
+
+.more {
+    margin-right: 20px;
+}
+
+.image-gallery {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.party-image {
+    margin-right: 10px;
+}
+
+.party-images img:not(:last-child) {
+    margin-right: 10px;
+}
+
+.sm-col img {
+    width: 100%;
+}
+
+@media (max-width: 576px) {
+    .sm-col {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .party-images img:not(:last-child) {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 1024px) {
+    .party-image {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .more {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+}

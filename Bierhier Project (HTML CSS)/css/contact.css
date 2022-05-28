@@ -1,0 +1,39 @@
+.contact {
+    margin-bottom: 20px;
+}
+
+.roc-building {
+    margin-right: 10px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.send-button {
+    width: fit-content;
+}
+
+.align-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.grid-col-2 {
+    grid-template-columns: 50% 50%;
+}
+
+@media (max-width: 576px) {
+    .sm-col {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .roc-building {
+        margin-bottom: 10px;
+    }
+
+    .grid-col-2 {
+        grid-template-columns: 100%;
+    }
+}

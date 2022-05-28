@@ -1,0 +1,29 @@
+.almere-news {
+    margin-bottom: 8px;
+}
+
+.internship {
+    margin-bottom: 16px;
+}
+
+.col-margin {
+    margin: 0 20px;
+}
+
+.col img {
+    width: 100%;
+}
+
+main img:first-child {
+    margin-bottom: 20px;
+}
+
+main img:not(:first-child) {
+    margin: 20px 0;
+}
+
+@media (max-width: 576px) {
+    .col-margin {
+        margin: 0;
+    }
+}

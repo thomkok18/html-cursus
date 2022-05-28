@@ -1,0 +1,22 @@
+.recepts {
+    margin-bottom: 20px;
+}
+
+main .row:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+main .row img:not(:last-child) {
+    margin-right: 20px;
+}
+
+@media (max-width: 1024px) {
+    main .row img:not(:last-child) {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .product {
+        margin-bottom: 10px;
+    }
+}
