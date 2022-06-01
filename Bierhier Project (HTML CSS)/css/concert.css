@@ -10,6 +10,7 @@
 
 .more {
     margin-right: 20px;
+    white-space: nowrap;
 }
 
 .image-gallery {
@@ -22,12 +23,22 @@
     margin-right: 10px;
 }
 
+.party-images {
+    width: 100%;
+}
+
 .party-images img:not(:last-child) {
     margin-right: 10px;
 }
 
 .sm-col img {
     width: 100%;
+}
+
+@media (max-width: 336px) {
+    .more {
+        white-space: inherit;
+    }
 }
 
 @media (max-width: 576px) {
