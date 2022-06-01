@@ -23,11 +23,11 @@
     margin-right: 10px;
 }
 
-.party-images {
+.party-images, .party-images a {
     width: 100%;
 }
 
-.party-images img:not(:last-child) {
+.party-images a:not(:last-child) {
     margin-right: 10px;
 }
 
@@ -47,7 +47,7 @@
         flex-direction: column;
     }
 
-    .party-images img:not(:last-child) {
+    .party-images a:not(:last-child) {
         margin-right: 0;
     }
 }
