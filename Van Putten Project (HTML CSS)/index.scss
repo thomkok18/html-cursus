@@ -8,9 +8,20 @@
         color: #013358;
     }
 
+    h1 {
+        font-size: 1.25em;
+        font-weight: bold;
+    }
+
+    h2 {
+        font-size: 1em;
+        font-weight: bold;
+    }
+
     div, p, a {
         font-family: 'Open Sans Regular', sans-serif;
         color: #013358;
+        white-space: normal;
     }
 
     a, a:hover {
@@ -41,6 +52,10 @@
                         color: #FFFFFF;
                         background-color: #1E87C9;
                     }
+
+                    &:hover {
+                        filter: brightness(85%);
+                    }
                 }
             }
         }
@@ -53,15 +68,16 @@
             .landing-image {
                 img {
                     max-height: 400px;
+                    width: 100%;
                     object-fit: cover;
-                    object-position: 100% -120px;
+                    object-position: 50% 35%;
                     filter: grayscale(100%);
                 }
             }
 
             .blue-beam {
                 position: absolute;
-                height: 100px;
+                height: 180px;
                 width: 100%;
                 background-color: #1E87C9;
                 margin-top: 20px;
@@ -70,20 +86,102 @@
             }
 
             .slider {
+                padding-top: 80px;
+
                 img {
-                    height: 100%;
+                    border: 1px solid black;
+                    height: 60%;
                     width: 100%;
-                    object-fit: cover;
+                    object-fit: fill;
                     filter: grayscale(100%);
                 }
+            }
+
+            .projects {
+                img {
+                    border: 1px solid black;
+                    height: 100%;
+                    width: 100%;
+                    object-fit: fill;
+                    filter: grayscale(100%);
+                }
+
+                .row > div {
+                    margin-bottom: 10px;
+                }
+            }
+
+            .tweets {
+                img {
+                    margin-right: 10px;
+                }
+
+                p {
+                    margin: 10px 0;
+                }
+
+                .timestamp {
+                    color: gray;
+                    margin-bottom: 10px;
+                }
+            }
+        }
+
+        .read-more {
+            padding: 5px 10px;
+            border: 0;
+            color: white;
+            background-color: #1E87C9;
+
+            &:hover {
+                filter: brightness(85%);
             }
         }
 
         footer {
             clear: both;
-            text-align: center;
             background-color: #999999;
-            padding: 10px 20px;
+            padding: 15px 0;
+
+            h1, h2, div, p, a {
+                color: white;
+            }
+
+            .socials {
+                margin: 10px 0;
+            }
+
+            form {
+                margin-bottom: 10px;
+                width: 50%;
+
+                label {
+                    font-weight: bold;
+                }
+
+                input {
+                    margin-bottom: 10px;
+                    padding: 2px 5px;
+                    border: 1px solid black;
+                }
+
+                button {
+                    width: fit-content;
+                    padding: 2px 5px;
+                    color: white;
+                    background-color: #666A6B;
+                    border: 1px solid black;
+                }
+            }
+        }
+    }
+
+    @media only screen and (max-width: 767px) {
+        .slider {
+            div.col-12 {
+                height: fit-content;
+                margin-bottom: 10px;
+            }
         }
     }
 }
