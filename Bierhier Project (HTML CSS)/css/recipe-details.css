@@ -1,0 +1,52 @@
+main img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.xl-col, .sm-col {
+    display: flex;
+    flex-direction: row;
+}
+
+.margin-right {
+    margin-right: 20px;
+}
+
+.col-1 {
+    width: 100%;
+    margin-right: 20px;
+}
+
+h1, .recipe-col {
+    margin-bottom: 20px;
+}
+
+.recipe-image {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 576px) {
+    .sm-col {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 1024px) {
+    .xl-col {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .margin-right {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .col-1 {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}
