@@ -1,0 +1,78 @@
+h1 {
+    margin-bottom: 20px;
+}
+
+.col-left {
+    width: 100%;
+    margin-right: 10px;
+}
+
+.col-right {
+    width: 100%;
+    margin-left: 10px;
+}
+
+.row-margin-left {
+    margin-left: 10px;
+}
+
+.row-margin-right {
+    margin-right: 10px;
+}
+
+.handball-logo {
+    width: 100%;
+    object-fit: contain;
+    margin-left: 10px;
+}
+
+.handball, .scoreboard {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.xl-col, .sm-col {
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 336px) {
+}
+
+@media (max-width: 576px) {
+    .sm-col {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .handball-logo {
+        margin-left: 0;
+    }
+
+    .col-right {
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+
+    .col-left {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .row-margin-right {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .row-margin-left {
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .xl-col {
+        display: flex;
+        flex-direction: column;
+    }
+}
