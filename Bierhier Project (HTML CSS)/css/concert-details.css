@@ -1,0 +1,121 @@
+.concerts {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.overview {
+    margin-bottom: 10px;
+}
+
+.more {
+    margin-right: 20px;
+    white-space: nowrap;
+}
+
+.image-gallery {
+    display: flex;
+    align-items: center;
+}
+
+.party-image {
+    margin-right: 10px;
+}
+
+.party-image img:first-child {
+    margin-bottom: 10px;
+}
+
+main .row .col img  {
+    margin-top: 10px;
+}
+
+.party-images-1 {
+    margin-bottom: 20px;
+}
+
+.party-images-1 img:first-child {
+    margin-bottom: 20px;
+}
+
+.video-description {
+    margin-bottom: 20px;
+}
+
+.video-description div:first-child {
+    margin-right: 10px;
+}
+
+.video-description div:last-child {
+    margin-left: 10px;
+}
+
+.party-images-2, .party-images-2 a {
+    width: 100%;
+}
+
+.party-images-2 a:not(:last-child) {
+    margin-right: 10px;
+}
+
+.mbo-college-image {
+    width: 100%;
+}
+
+.sm-col img {
+    width: 100%;
+}
+
+.xl-col {
+    display: flex;
+    flex-direction: row;
+}
+
+.image-description {
+    margin: 0 20px;
+}
+
+@media (max-width: 336px) {
+    .more {
+        white-space: inherit;
+    }
+}
+
+@media (max-width: 576px) {
+    .sm-col {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .party-images-2 a:not(:last-child) {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 1024px) {
+    .xl-col {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .image-description {
+        margin: 0;
+    }
+
+    .video-description div:first-child {
+        margin-right: 0;
+    }
+
+    .video-description div:last-child {
+        margin-left: 0;
+    }
+
+    .party-image {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .more {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+}
