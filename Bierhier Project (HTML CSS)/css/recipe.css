@@ -2,6 +2,10 @@
     margin-bottom: 20px;
 }
 
+.product {
+    margin-right: 10px;
+}
+
 main .row:not(:last-child) {
     margin-bottom: 20px;
 }
@@ -17,6 +21,7 @@ main .row img:not(:last-child) {
     }
 
     .product {
+        margin-right: 0;
         margin-bottom: 10px;
     }
 }
