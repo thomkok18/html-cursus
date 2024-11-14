@@ -36,9 +36,6 @@ h1 {
     flex-direction: row;
 }
 
-@media (max-width: 336px) {
-}
-
 @media (max-width: 576px) {
     .sm-col {
         display: flex;
